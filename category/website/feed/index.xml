@@ -1,0 +1,362 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Website &#8211; CrTr</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description>Welcome to my website</description>
+	<lastBuildDate>Mon, 04 Jul 2022 14:48:46 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.9.3</generator>
+
+<image>
+	<url>./../../../wp-content/uploads/2022/01/cropped-profile2-32x32.png</url>
+	<title>Website &#8211; CrTr</title>
+	<link>./../../../index.html</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>WordPress5.8 on GitHub</title>
+		<link>./../../../2021/12/28/wordpress-on-github/index.html</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Tue, 28 Dec 2021 20:18:03 +0000</pubDate>
+				<category><![CDATA[Website]]></category>
+		<category><![CDATA[WordPress]]></category>
+		<guid isPermaLink="false">http://127.0.0.1:81/wordpress/?p=235</guid>
+
+					<description><![CDATA[Currently this website is hosting on GitHub for free, because GitHub is an opensource platform. Learn more about Git hub here Notice: The website is a static website and not a dynamic website, this can be use for experimental and to test out WordPress without spending money. Not recommended for Business or online store. Below&#8230;&#160;<a href="./../../../2021/12/28/wordpress-on-github/index.html" class="" rel="bookmark">Read More &#187;<span class="screen-reader-text">WordPress5.8 on GitHub</span></a>]]></description>
+										<content:encoded><![CDATA[
+<p class="has-medium-font-size">Currently this website is hosting on <a href="https://github.com/" target="_blank" rel="noreferrer noopener">GitHub</a> for free, because GitHub is an opensource platform. <a rel="noreferrer noopener" href="https://github.com/about" target="_blank">Learn more about Git hub here</a></p>
+
+
+
+<p class="has-nv-site-bg-color has-neve-link-color-background-color has-text-color has-background" style="font-size:15px">Notice: The website is a <strong><em>static</em></strong> website and <strong><em>not </em></strong>a <strong><em>dynamic </em></strong>website, this can be use for experimental and to test out  WordPress without spending money. Not recommended for Business or online store.</p>
+
+
+
+<p class="has-text-align-center has-medium-font-size">Below is the <s>not so</s> easy way for creating your own website without coding=&gt;</p>
+
+
+
+<p class="has-medium-font-size"><strong><span style="text-decoration: underline;">Step1</span></strong>: Install<strong><em> WordPress 5.8</em></strong> on your local machine <strong><em>(offline)</em></strong>. <a href="https://bitnami.com/stack/wordpress/installer" target="_blank" rel="noreferrer noopener">Here is the link for the download</a>, and I recommend you to watch the <strong><em>tutorial</em></strong> first before doing the installation because it <strong><em>will help you</em></strong> understand the process, and <a href="https://www.youtube.com/watch?v=wWVbiGc6XKk" target="_blank" rel="noreferrer noopener">here is the link of tutorial</a>.</p>
+
+
+
+<p class="has-nv-site-bg-color has-neve-link-color-background-color has-text-color has-background" style="font-size:15px">Notice: Please save the <strong><em>Username and Password</em></strong>.</p>
+
+
+
+<p class="has-medium-font-size"><strong><span style="text-decoration: underline;">Step2</span></strong>: Install Simply Static on your WordPress site, this plugin allow you to generate and download static HTML file for your website<strong><em> don&#8217;t worry no coding involve here, you don&#8217;t need to learn HTML</em></strong>. Here is how you install it=> </p>
+
+
+
+<ul class="has-medium-font-size"><li>First go to WordPress</li></ul>
+
+
+
+<figure class="wp-block-image"><img width="1024" height="576" src="./../../../wp-content/uploads/2021/12/Screenshot-760-1-1-1024x576.png" alt="" class="wp-image-630" srcset="./../../../wp-content/uploads/2021/12/Screenshot-760-1-1-1024x576.png 1024w, ./../../../wp-content/uploads/2021/12/Screenshot-760-1-1-300x169.png 300w, ./../../../wp-content/uploads/2021/12/Screenshot-760-1-1-768x432.png 768w, ./../../../wp-content/uploads/2021/12/Screenshot-760-1-1.png 1366w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<ul class="has-medium-font-size"><li>Next type <strong><em>login</em></strong> behind wordpress/</li></ul>
+
+
+
+<figure class="wp-block-image"><img loading="lazy" width="1024" height="79" src="./../../../wp-content/uploads/2021/12/Screenshot-763-1-1024x79-1.png" alt="" class="wp-image-637" srcset="./../../../wp-content/uploads/2021/12/Screenshot-763-1-1024x79-1.png 1024w, ./../../../wp-content/uploads/2021/12/Screenshot-763-1-1024x79-1-300x23.png 300w, ./../../../wp-content/uploads/2021/12/Screenshot-763-1-1024x79-1-768x59.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<ul class="has-medium-font-size"><li>Login with Username and Password</li></ul>
+
+
+
+<figure class="wp-block-image is-style-default"><img loading="lazy" width="1024" height="576" src="./../../../wp-content/uploads/2021/12/Screenshot-764-1024x576-1.png" alt="" class="wp-image-641" srcset="./../../../wp-content/uploads/2021/12/Screenshot-764-1024x576-1.png 1024w, ./../../../wp-content/uploads/2021/12/Screenshot-764-1024x576-1-300x169.png 300w, ./../../../wp-content/uploads/2021/12/Screenshot-764-1024x576-1-768x432.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<ul class="has-medium-font-size"><li>Hover over Plugin and click Add New</li></ul>
+
+
+
+<figure class="wp-block-image"><img loading="lazy" width="1024" height="576" src="./../../../wp-content/uploads/2021/12/Screenshot-765-1024x576-1.png" alt="" class="wp-image-645" srcset="./../../../wp-content/uploads/2021/12/Screenshot-765-1024x576-1.png 1024w, ./../../../wp-content/uploads/2021/12/Screenshot-765-1024x576-1-300x169.png 300w, ./../../../wp-content/uploads/2021/12/Screenshot-765-1024x576-1-768x432.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<ul class="has-medium-font-size"><li>Search for Simply Static, install and activate it</li></ul>
+
+
+
+<figure class="wp-block-image"><img loading="lazy" width="1024" height="576" src="./../../../wp-content/uploads/2021/12/Screenshot-766-1024x576-1.png" alt="" class="wp-image-649" srcset="./../../../wp-content/uploads/2021/12/Screenshot-766-1024x576-1.png 1024w, ./../../../wp-content/uploads/2021/12/Screenshot-766-1024x576-1-300x169.png 300w, ./../../../wp-content/uploads/2021/12/Screenshot-766-1024x576-1-768x432.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<ul class="has-medium-font-size"><li>Hover over Simply Static Click Setting, Under general uncheck everything except these 2 and click on SAVE CHANGES</li></ul>
+
+
+
+<figure class="wp-block-image"><img loading="lazy" width="1024" height="576" src="./../../../wp-content/uploads/2021/12/Screenshot-769-1024x576-1.png" alt="" class="wp-image-657" srcset="./../../../wp-content/uploads/2021/12/Screenshot-769-1024x576-1.png 1024w, ./../../../wp-content/uploads/2021/12/Screenshot-769-1024x576-1-300x169.png 300w, ./../../../wp-content/uploads/2021/12/Screenshot-769-1024x576-1-768x432.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<ul class="has-medium-font-size"><li>Finally go to Simply Static click Generate Static Files, wait for loading, click on Click here to download</li></ul>
+
+
+
+<figure class="wp-block-image"><img loading="lazy" width="1024" height="576" src="./../../../wp-content/uploads/2021/12/Screenshot-767-1024x576-1.png" alt="" class="wp-image-653" srcset="./../../../wp-content/uploads/2021/12/Screenshot-767-1024x576-1.png 1024w, ./../../../wp-content/uploads/2021/12/Screenshot-767-1024x576-1-300x169.png 300w, ./../../../wp-content/uploads/2021/12/Screenshot-767-1024x576-1-768x432.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p class="has-nv-site-bg-color has-neve-link-color-background-color has-text-color has-background" style="font-size:15px">Notice: Internet connection is required for the download and don&#8217;t forget to extract the file</p>
+
+
+
+<p class="has-medium-font-size"><strong><span style="text-decoration: underline;">Step3</span></strong>: Hosting, you need GitHub account and you can create it for free and <a href="https://www.youtube.com/watch?v=tTvLl138ky4" target="_blank" rel="noreferrer noopener">here is how you do it</a>. After login to your account, create a <strong><em>Repository</em></strong>=&gt;</p>
+
+
+
+<ul class="has-medium-font-size"><li>Click on GitHub logo and click New</li></ul>
+
+
+
+<figure class="wp-block-image"><img loading="lazy" width="1024" height="576" src="./../../../wp-content/uploads/2021/12/Screenshot-770-1-1024x576.png" alt="" class="wp-image-658" srcset="./../../../wp-content/uploads/2021/12/Screenshot-770-1-1024x576.png 1024w, ./../../../wp-content/uploads/2021/12/Screenshot-770-1-300x169.png 300w, ./../../../wp-content/uploads/2021/12/Screenshot-770-1-768x432.png 768w, ./../../../wp-content/uploads/2021/12/Screenshot-770-1.png 1366w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<ul class="has-medium-font-size"><li>Fill the Information, check Public, check Add a README file, click Create repository</li></ul>
+
+
+
+<figure class="wp-block-image"><img loading="lazy" width="1024" height="576" src="./../../../wp-content/uploads/2021/12/Screenshot-772-1024x576-1.png" alt="" class="wp-image-665" srcset="./../../../wp-content/uploads/2021/12/Screenshot-772-1024x576-1.png 1024w, ./../../../wp-content/uploads/2021/12/Screenshot-772-1024x576-1-300x169.png 300w, ./../../../wp-content/uploads/2021/12/Screenshot-772-1024x576-1-768x432.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p class="has-nv-site-bg-color has-neve-link-color-background-color has-text-color has-background" style="font-size:15px">Notice: Public is important</p>
+
+
+
+<p class="has-medium-font-size"><strong><span style="text-decoration: underline;">Step4A</span></strong>: <strong><em>Install GitHub desktop</em></strong> and <strong><em>pair</em></strong> it with your <strong><em>GitHub account</em></strong>, <a href="https://www.youtube.com/watch?v=xuq73UJrbwg&amp;list=LL&amp;index=1" target="_blank" rel="noreferrer noopener">Here is how it work</a>. Next <strong><em><a href="https://www.youtube.com/watch?v=xuq73UJrbwg&amp;list=LL&amp;index=1" target="_blank" rel="noreferrer noopener">clone the repository</a></em></strong> to your local machine, where we can <strong><em>upload</em></strong> your <strong><em>Static HTML file</em></strong> and <strong><em>then push</em></strong> (upload) it to your GitHub account. Below is how you push (upload)=&gt; </p>
+
+
+
+<ul class="has-medium-font-size"><li>Open GitHib desktop and click on Show in Explorer</li></ul>
+
+
+
+<figure class="wp-block-image"><img loading="lazy" width="768" height="527" src="./../../../wp-content/uploads/2021/12/Screenshot-773-2-768x527-1.png" alt="" class="wp-image-668" srcset="./../../../wp-content/uploads/2021/12/Screenshot-773-2-768x527-1.png 768w, ./../../../wp-content/uploads/2021/12/Screenshot-773-2-768x527-1-300x206.png 300w" sizes="(max-width: 768px) 100vw, 768px" /></figure>
+
+
+
+<ul class="has-medium-font-size"><li>Copy all the Static file and paste it here</li></ul>
+
+
+
+<figure class="wp-block-image"><img loading="lazy" width="768" height="524" src="./../../../wp-content/uploads/2021/12/Screenshot-774-768x524-1.png" alt="" class="wp-image-671" srcset="./../../../wp-content/uploads/2021/12/Screenshot-774-768x524-1.png 768w, ./../../../wp-content/uploads/2021/12/Screenshot-774-768x524-1-300x205.png 300w" sizes="(max-width: 768px) 100vw, 768px" /></figure>
+
+
+
+<ul class="has-medium-font-size"><li>Fill in information before Commit to main</li></ul>
+
+
+
+<figure class="wp-block-image"><img loading="lazy" width="768" height="531" src="./../../../wp-content/uploads/2021/12/Screenshot-776-768x531-1.png" alt="" class="wp-image-674" srcset="./../../../wp-content/uploads/2021/12/Screenshot-776-768x531-1.png 768w, ./../../../wp-content/uploads/2021/12/Screenshot-776-768x531-1-300x207.png 300w" sizes="(max-width: 768px) 100vw, 768px" /></figure>
+
+
+
+<ul class="has-medium-font-size"><li>Click on Push origin and wait until complete and everything is done</li></ul>
+
+
+
+<figure class="wp-block-image"><img loading="lazy" width="768" height="528" src="./../../../wp-content/uploads/2021/12/Screenshot-779-1-768x528-1.png" alt="" class="wp-image-677" srcset="./../../../wp-content/uploads/2021/12/Screenshot-779-1-768x528-1.png 768w, ./../../../wp-content/uploads/2021/12/Screenshot-779-1-768x528-1-300x206.png 300w" sizes="(max-width: 768px) 100vw, 768px" /></figure>
+
+
+
+<p class="has-medium-font-size"><strong><span style="text-decoration: underline;">Step4B</span></strong>:  <strong><em>Install GitHub desktop</em></strong> and <strong><em>pair</em></strong> it with your <strong><em>GitHub account</em></strong>, <a href="https://www.youtube.com/watch?v=xuq73UJrbwg&amp;list=LL&amp;index=1" target="_blank" rel="noreferrer noopener">Here is how it work</a>. Next <strong><em>create local repository</em></strong>, where you can <strong><em>upload</em></strong> your <strong><em>Static file</em></strong> and <strong><em>then push</em></strong> (upload) it to your GitHub account.  Below is how you <strong><em>create local repository</em></strong>=&gt; </p>
+
+
+
+<p class="has-text-align-left has-white-color has-vivid-red-background-color has-text-color has-background" style="font-size:15px"> Notice: If you go with <strong><em>Step4B </em></strong>then you can <strong><em>skip Step3</em></strong>. </p>
+
+
+
+<ul class="has-medium-font-size"><li>Click on down arrow, hover over Add and click on Create new repository</li></ul>
+
+
+
+<figure class="wp-block-image"><img loading="lazy" width="768" height="532" src="./../../../wp-content/uploads/2021/12/Screenshot-780-768x532-1.png" alt="" class="wp-image-680" srcset="./../../../wp-content/uploads/2021/12/Screenshot-780-768x532-1.png 768w, ./../../../wp-content/uploads/2021/12/Screenshot-780-768x532-1-300x208.png 300w" sizes="(max-width: 768px) 100vw, 768px" /></figure>
+
+
+
+<ul class="has-medium-font-size"><li>Fill in information check README and click Create repository</li></ul>
+
+
+
+<figure class="wp-block-image"><img loading="lazy" width="768" height="529" src="./../../../wp-content/uploads/2021/12/Screenshot-781-768x529-1.png" alt="" class="wp-image-683" srcset="./../../../wp-content/uploads/2021/12/Screenshot-781-768x529-1.png 768w, ./../../../wp-content/uploads/2021/12/Screenshot-781-768x529-1-300x207.png 300w" sizes="(max-width: 768px) 100vw, 768px" /></figure>
+
+
+
+<ul class="has-medium-font-size"><li>Click on Publish repository and wait until complete</li></ul>
+
+
+
+<figure class="wp-block-image"><img loading="lazy" width="768" height="527" src="./../../../wp-content/uploads/2021/12/Screenshot-783-768x527-1.png" alt="" class="wp-image-686" srcset="./../../../wp-content/uploads/2021/12/Screenshot-783-768x527-1.png 768w, ./../../../wp-content/uploads/2021/12/Screenshot-783-768x527-1-300x206.png 300w" sizes="(max-width: 768px) 100vw, 768px" /></figure>
+
+
+
+<p class="has-text-align-center has-medium-font-size">Here how is you push (upload)=&gt;</p>
+
+
+
+<ul class="has-medium-font-size"><li>Open GitHib desktop and click on Show in Explorer</li></ul>
+
+
+
+<figure class="wp-block-image"><img loading="lazy" width="768" height="527" src="./../../../wp-content/uploads/2021/12/Screenshot-773-2-768x527-1.png" alt="" class="wp-image-668" srcset="./../../../wp-content/uploads/2021/12/Screenshot-773-2-768x527-1.png 768w, ./../../../wp-content/uploads/2021/12/Screenshot-773-2-768x527-1-300x206.png 300w" sizes="(max-width: 768px) 100vw, 768px" /></figure>
+
+
+
+<ul class="has-medium-font-size"><li>Copy all the Static file and paste it here</li></ul>
+
+
+
+<figure class="wp-block-image"><img loading="lazy" width="768" height="524" src="./../../../wp-content/uploads/2021/12/Screenshot-774-768x524-1.png" alt="" class="wp-image-671" srcset="./../../../wp-content/uploads/2021/12/Screenshot-774-768x524-1.png 768w, ./../../../wp-content/uploads/2021/12/Screenshot-774-768x524-1-300x205.png 300w" sizes="(max-width: 768px) 100vw, 768px" /></figure>
+
+
+
+<ul class="has-medium-font-size"><li>Fill in information before Commit to main</li></ul>
+
+
+
+<figure class="wp-block-image"><img loading="lazy" width="768" height="531" src="./../../../wp-content/uploads/2021/12/Screenshot-776-768x531-1.png" alt="" class="wp-image-674" srcset="./../../../wp-content/uploads/2021/12/Screenshot-776-768x531-1.png 768w, ./../../../wp-content/uploads/2021/12/Screenshot-776-768x531-1-300x207.png 300w" sizes="(max-width: 768px) 100vw, 768px" /></figure>
+
+
+
+<ul class="has-medium-font-size"><li>Click on Push origin and wait until complete and everything is done</li></ul>
+
+
+
+<figure class="wp-block-image"><img loading="lazy" width="768" height="528" src="./../../../wp-content/uploads/2021/12/Screenshot-779-1-768x528-1.png" alt="" class="wp-image-677" srcset="./../../../wp-content/uploads/2021/12/Screenshot-779-1-768x528-1.png 768w, ./../../../wp-content/uploads/2021/12/Screenshot-779-1-768x528-1-300x206.png 300w" sizes="(max-width: 768px) 100vw, 768px" /></figure>
+
+
+
+<p class="has-medium-font-size"><strong><span style="text-decoration: underline;">Step5/Final step</span></strong>: after push (upload) static file is complete, go the <strong><em>GitHub</em></strong> <strong><em>repository</em></strong> to change some setting required for hosting a web site=&gt;</p>
+
+
+
+<ul class="has-medium-font-size"><li>Go to repository and click on setting</li></ul>
+
+
+
+<figure class="wp-block-image"><img loading="lazy" width="1024" height="576" src="./../../../wp-content/uploads/2021/12/Screenshot-788-1024x576-1.png" alt="" class="wp-image-690" srcset="./../../../wp-content/uploads/2021/12/Screenshot-788-1024x576-1.png 1024w, ./../../../wp-content/uploads/2021/12/Screenshot-788-1024x576-1-300x169.png 300w, ./../../../wp-content/uploads/2021/12/Screenshot-788-1024x576-1-768x432.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<ul class="has-medium-font-size"><li>go down to GitHib Pages and click on Click it out here</li></ul>
+
+
+
+<figure class="wp-block-image"><img loading="lazy" width="1024" height="576" src="./../../../wp-content/uploads/2021/12/Screenshot-789-1024x576-1.png" alt="" class="wp-image-694" srcset="./../../../wp-content/uploads/2021/12/Screenshot-789-1024x576-1.png 1024w, ./../../../wp-content/uploads/2021/12/Screenshot-789-1024x576-1-300x169.png 300w, ./../../../wp-content/uploads/2021/12/Screenshot-789-1024x576-1-768x432.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<ul class="has-medium-font-size"><li>Click on None and choose main</li></ul>
+
+
+
+<figure class="wp-block-image"><img loading="lazy" width="1024" height="576" src="./../../../wp-content/uploads/2021/12/Screenshot-791-1024x576-1.png" alt="" class="wp-image-702" srcset="./../../../wp-content/uploads/2021/12/Screenshot-791-1024x576-1.png 1024w, ./../../../wp-content/uploads/2021/12/Screenshot-791-1024x576-1-300x169.png 300w, ./../../../wp-content/uploads/2021/12/Screenshot-791-1024x576-1-768x432.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<ul class="has-medium-font-size"><li>Click on Save and wait</li></ul>
+
+
+
+<figure class="wp-block-image"><img loading="lazy" width="1024" height="576" src="./../../../wp-content/uploads/2021/12/Screenshot-792-1024x576-1.png" alt="" class="wp-image-706" srcset="./../../../wp-content/uploads/2021/12/Screenshot-792-1024x576-1.png 1024w, ./../../../wp-content/uploads/2021/12/Screenshot-792-1024x576-1-300x169.png 300w, ./../../../wp-content/uploads/2021/12/Screenshot-792-1024x576-1-768x432.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<ul class="has-medium-font-size"><li>When the link turn green it&#8217;s ready</li></ul>
+
+
+
+<figure class="wp-block-image"><img loading="lazy" width="1024" height="576" src="./../../../wp-content/uploads/2021/12/Screenshot-794-1024x576-1.png" alt="" class="wp-image-710" srcset="./../../../wp-content/uploads/2021/12/Screenshot-794-1024x576-1.png 1024w, ./../../../wp-content/uploads/2021/12/Screenshot-794-1024x576-1-300x169.png 300w, ./../../../wp-content/uploads/2021/12/Screenshot-794-1024x576-1-768x432.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p class="has-white-color has-vivid-red-background-color has-text-color has-background" style="font-size:15px">Notice: When the link is <strong><em>green </em></strong>click on it to see if it work, <strong><em>you don&#8217;t need custom domain</em></strong> (you can buy one if you need it).</p>
+
+
+
+<p class="has-medium-font-size"> <a rel="noreferrer noopener" href="https://github.com/about" target="_blank">Learn more about Git hub here</a> </p>
+<p><a class="a2a_button_facebook" href="https://www.addtoany.com/add_to/facebook?linkurl=.%2F2021%2F12%2F28%2Fwordpress-on-github%2F&amp;linkname=WordPress5.8%20on%20GitHub" title="Facebook" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_twitter" href="https://www.addtoany.com/add_to/twitter?linkurl=.%2F2021%2F12%2F28%2Fwordpress-on-github%2F&amp;linkname=WordPress5.8%20on%20GitHub" title="Twitter" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_email" href="https://www.addtoany.com/add_to/email?linkurl=.%2F2021%2F12%2F28%2Fwordpress-on-github%2F&amp;linkname=WordPress5.8%20on%20GitHub" title="Email" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_whatsapp" href="https://www.addtoany.com/add_to/whatsapp?linkurl=.%2F2021%2F12%2F28%2Fwordpress-on-github%2F&amp;linkname=WordPress5.8%20on%20GitHub" title="WhatsApp" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_telegram" href="https://www.addtoany.com/add_to/telegram?linkurl=.%2F2021%2F12%2F28%2Fwordpress-on-github%2F&amp;linkname=WordPress5.8%20on%20GitHub" title="Telegram" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_line" href="https://www.addtoany.com/add_to/line?linkurl=.%2F2021%2F12%2F28%2Fwordpress-on-github%2F&amp;linkname=WordPress5.8%20on%20GitHub" title="Line" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_reddit" href="https://www.addtoany.com/add_to/reddit?linkurl=.%2F2021%2F12%2F28%2Fwordpress-on-github%2F&amp;linkname=WordPress5.8%20on%20GitHub" title="Reddit" rel="nofollow noopener" target="_blank"></a><a class="a2a_dd addtoany_share_save addtoany_share" href="https://www.addtoany.com/share#url=.%2F2021%2F12%2F28%2Fwordpress-on-github%2F&#038;title=WordPress5.8%20on%20GitHub" data-a2a-url="./../../../2021/12/28/wordpress-on-github/index.html" data-a2a-title="WordPress5.8 on GitHub"></a></p>]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>WordPress</title>
+		<link>./../../../2021/12/08/wordpress/index.html</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Wed, 08 Dec 2021 07:11:09 +0000</pubDate>
+				<category><![CDATA[Website]]></category>
+		<category><![CDATA[WordPress]]></category>
+		<guid isPermaLink="false">http://127.0.0.1:81/wordpress/?p=100</guid>
+
+					<description><![CDATA[WordPress is also a web site builder but the way it work is completely different form HTML and CSS. WordPress is just like MS office program but for creating web site and it is beginner friendly since you do have to learn HTML or CSS just to create a simple web page, you just drack&#8230;&#160;<a href="./../../../2021/12/08/wordpress/index.html" class="" rel="bookmark">Read More &#187;<span class="screen-reader-text">WordPress</span></a>]]></description>
+										<content:encoded><![CDATA[
+<p class="has-medium-font-size">WordPress is also a web site builder but the way it work is completely different form HTML and CSS. WordPress is just like MS office program but for creating web site and it is beginner friendly since you do have to learn HTML or CSS just to create a simple web page, you just drack and drop write some something down and done. But you still need to buy a domain and hosting before you can start with WordPress, there are also a way to install WP offline on local host machine that allow you to get start without domain and hosting but you need to find the way to get it online. <a href="https://wordpress.org/about/" target="_blank" rel="noreferrer noopener">Learn more about WordPress here</a></p>
+<p><a class="a2a_button_facebook" href="https://www.addtoany.com/add_to/facebook?linkurl=.%2F2021%2F12%2F08%2Fwordpress%2F&amp;linkname=WordPress" title="Facebook" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_twitter" href="https://www.addtoany.com/add_to/twitter?linkurl=.%2F2021%2F12%2F08%2Fwordpress%2F&amp;linkname=WordPress" title="Twitter" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_email" href="https://www.addtoany.com/add_to/email?linkurl=.%2F2021%2F12%2F08%2Fwordpress%2F&amp;linkname=WordPress" title="Email" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_whatsapp" href="https://www.addtoany.com/add_to/whatsapp?linkurl=.%2F2021%2F12%2F08%2Fwordpress%2F&amp;linkname=WordPress" title="WhatsApp" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_telegram" href="https://www.addtoany.com/add_to/telegram?linkurl=.%2F2021%2F12%2F08%2Fwordpress%2F&amp;linkname=WordPress" title="Telegram" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_line" href="https://www.addtoany.com/add_to/line?linkurl=.%2F2021%2F12%2F08%2Fwordpress%2F&amp;linkname=WordPress" title="Line" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_reddit" href="https://www.addtoany.com/add_to/reddit?linkurl=.%2F2021%2F12%2F08%2Fwordpress%2F&amp;linkname=WordPress" title="Reddit" rel="nofollow noopener" target="_blank"></a><a class="a2a_dd addtoany_share_save addtoany_share" href="https://www.addtoany.com/share#url=.%2F2021%2F12%2F08%2Fwordpress%2F&#038;title=WordPress" data-a2a-url="./../../../2021/12/08/wordpress/index.html" data-a2a-title="WordPress"></a></p>]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>HTML &#038; CSS</title>
+		<link>./../../../2021/12/07/html/index.html</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Tue, 07 Dec 2021 13:37:22 +0000</pubDate>
+				<category><![CDATA[Computer Language]]></category>
+		<category><![CDATA[PC]]></category>
+		<category><![CDATA[Website]]></category>
+		<guid isPermaLink="false">http://127.0.0.1:81/wordpress/?p=83</guid>
+
+					<description><![CDATA[HTML Html is a language for building web site, basically it is the back bone of the web site without it the web simply wont work. The way HTML work is just like a lose sandwich if you start with a bread you need to stop with a bread too. Html tag can be combine&#8230;&#160;<a href="./../../../2021/12/07/html/index.html" class="" rel="bookmark">Read More &#187;<span class="screen-reader-text">HTML &#038; CSS</span></a>]]></description>
+										<content:encoded><![CDATA[
+<h2>HTML</h2>
+
+
+
+<p class="has-medium-font-size">Html is a language for building web site, basically it is the back bone of the web site without it the web simply wont work. The way HTML work is just like a lose sandwich if you start with a bread you need to stop with a bread too. Html tag can be combine together to create something, and the way tag work to together is by working under each other. <a href="https://en.wikipedia.org/wiki/HTML" target="_blank" rel="noreferrer noopener">Learn more about HTML here</a>, Below is the list of HTML tags:</p>
+
+
+
+<figure class="wp-block-image size-full is-resized"><img loading="lazy" src="./../../../wp-content/uploads/2021/12/Screenshot-753-1-1.png" alt="" class="wp-image-628" width="817" height="896" srcset="./../../../wp-content/uploads/2021/12/Screenshot-753-1-1.png 659w, ./../../../wp-content/uploads/2021/12/Screenshot-753-1-1-273x300.png 273w" sizes="(max-width: 817px) 100vw, 817px" /></figure>
+
+
+
+<h2>CSS</h2>
+
+
+
+<p class="has-medium-font-size">CSS is similar to HTML they both are use in web site, however CSS is like the outside skin over the HTML. CSS are use as a style for the Web page while HTML provide the text and functionality, CSS provide the color, style, positioning, and the effect for the webpage. CSS work as you look on a element target a part of the HTML and then you use the code to change the target to be what ever you want. <a href="https://en.wikipedia.org/wiki/CSS" target="_blank" rel="noreferrer noopener">Learn more about CSS here</a></p>
+<p><a class="a2a_button_facebook" href="https://www.addtoany.com/add_to/facebook?linkurl=.%2F2021%2F12%2F07%2Fhtml%2F&amp;linkname=HTML%20%26%20CSS" title="Facebook" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_twitter" href="https://www.addtoany.com/add_to/twitter?linkurl=.%2F2021%2F12%2F07%2Fhtml%2F&amp;linkname=HTML%20%26%20CSS" title="Twitter" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_email" href="https://www.addtoany.com/add_to/email?linkurl=.%2F2021%2F12%2F07%2Fhtml%2F&amp;linkname=HTML%20%26%20CSS" title="Email" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_whatsapp" href="https://www.addtoany.com/add_to/whatsapp?linkurl=.%2F2021%2F12%2F07%2Fhtml%2F&amp;linkname=HTML%20%26%20CSS" title="WhatsApp" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_telegram" href="https://www.addtoany.com/add_to/telegram?linkurl=.%2F2021%2F12%2F07%2Fhtml%2F&amp;linkname=HTML%20%26%20CSS" title="Telegram" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_line" href="https://www.addtoany.com/add_to/line?linkurl=.%2F2021%2F12%2F07%2Fhtml%2F&amp;linkname=HTML%20%26%20CSS" title="Line" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_reddit" href="https://www.addtoany.com/add_to/reddit?linkurl=.%2F2021%2F12%2F07%2Fhtml%2F&amp;linkname=HTML%20%26%20CSS" title="Reddit" rel="nofollow noopener" target="_blank"></a><a class="a2a_dd addtoany_share_save addtoany_share" href="https://www.addtoany.com/share#url=.%2F2021%2F12%2F07%2Fhtml%2F&#038;title=HTML%20%26%20CSS" data-a2a-url="./../../../2021/12/07/html/index.html" data-a2a-title="HTML &amp; CSS"></a></p>]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

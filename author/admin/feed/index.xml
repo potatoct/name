@@ -1,0 +1,688 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>admin &#8211; CrTr</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description>Welcome to my website</description>
+	<lastBuildDate>Mon, 04 Jul 2022 15:18:08 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.9.3</generator>
+
+<image>
+	<url>./../../../wp-content/uploads/2022/01/cropped-profile2-32x32.png</url>
+	<title>admin &#8211; CrTr</title>
+	<link>./../../../index.html</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>WordPress6.0 on GitHub</title>
+		<link>./../../../2022/07/04/wordpress6-0-on-github/index.html</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Mon, 04 Jul 2022 15:18:08 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">./../../../index.html?p=1102</guid>
+
+					<description><![CDATA[This is an update form WordPress5.8 on GitHub, Since than WordPress have release new version of WordPress and the GitHub interface is also been updated. The overall processes is still the same but some small steps is need to be done in different way in order to get WordPress site up and running. Here is&#8230;&#160;<a href="./../../../2022/07/04/wordpress6-0-on-github/index.html" class="" rel="bookmark">Read More &#187;<span class="screen-reader-text">WordPress6.0 on GitHub</span></a>]]></description>
+										<content:encoded><![CDATA[
+<p class="has-medium-font-size">This is an <strong>update </strong>form <strong>WordPress5.8 on GitHub</strong>, Since than WordPress have release new version of WordPress and the GitHub interface is also been updated. The overall processes is still the same but some small steps is need to be done in different way in order to get WordPress site up and running.</p>
+
+
+
+<p class="has-text-align-center has-nv-site-bg-color has-nv-c-1-background-color has-text-color has-background has-medium-font-size">Here is how you can get a WordPress site running on GitHub page =></p>
+
+
+
+<p class="has-medium-font-size"><strong>Step1</strong>: Install<strong><em> WordPress6.0</em></strong> on your Computer. <a rel="noreferrer noopener" href="https://bitnami.com/stack/wordpress/installer" target="_blank">Here is the link for the download</a>, Recommend that you watch the <strong><em>tutorial</em></strong> before the installation it <strong><em>will help you</em></strong> understand the process, and <a rel="noreferrer noopener" href="https://www.youtube.com/watch?v=wWVbiGc6XKk" target="_blank">here is the link of tutorial</a>.</p>
+
+
+
+<p class="has-text-align-center has-nv-site-bg-color has-neve-link-color-background-color has-text-color has-background" style="font-size:15px">Notice: save the <strong><em>Username and Password</em></strong>.</p>
+
+
+
+<p class="has-medium-font-size"><strong>Step2</strong>: Install Simply Static on your WordPress site, this plugin allow you to download HTML file of your website<strong><em>.</em></strong> Here is how to install it=></p>
+
+
+
+<ul class="has-medium-font-size"><li>First go to WordPress site.</li></ul>
+
+
+
+<figure class="wp-block-image size-large"><img width="1024" height="576" src="./../../../wp-content/uploads/2021/12/Screenshot-760-1-1-1024x576.png" alt="" class="wp-image-630" srcset="./../../../wp-content/uploads/2021/12/Screenshot-760-1-1-1024x576.png 1024w, ./../../../wp-content/uploads/2021/12/Screenshot-760-1-1-300x169.png 300w, ./../../../wp-content/uploads/2021/12/Screenshot-760-1-1-768x432.png 768w, ./../../../wp-content/uploads/2021/12/Screenshot-760-1-1.png 1366w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<ul class="has-medium-font-size"><li>Next <strong><em>login</em></strong> to your WordPress site, by type in &#8220;login&#8221; behind site address.</li></ul>
+
+
+
+<figure class="wp-block-image size-full"><img loading="lazy" width="1024" height="79" src="./../../../wp-content/uploads/2021/12/Screenshot-763-1-1024x79-1.png" alt="" class="wp-image-637" srcset="./../../../wp-content/uploads/2021/12/Screenshot-763-1-1024x79-1.png 1024w, ./../../../wp-content/uploads/2021/12/Screenshot-763-1-1024x79-1-300x23.png 300w, ./../../../wp-content/uploads/2021/12/Screenshot-763-1-1024x79-1-768x59.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<ul class="has-medium-font-size"><li>Login using Username and Password.</li></ul>
+
+
+
+<figure class="wp-block-image size-full"><img loading="lazy" width="1024" height="576" src="./../../../wp-content/uploads/2021/12/Screenshot-764-1024x576-1.png" alt="" class="wp-image-641" srcset="./../../../wp-content/uploads/2021/12/Screenshot-764-1024x576-1.png 1024w, ./../../../wp-content/uploads/2021/12/Screenshot-764-1024x576-1-300x169.png 300w, ./../../../wp-content/uploads/2021/12/Screenshot-764-1024x576-1-768x432.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<ul class="has-medium-font-size"><li>Hover over Plugin and click Add New.</li></ul>
+
+
+
+<figure class="wp-block-image size-full"><img loading="lazy" width="1024" height="576" src="./../../../wp-content/uploads/2021/12/Screenshot-765-1024x576-1.png" alt="" class="wp-image-645" srcset="./../../../wp-content/uploads/2021/12/Screenshot-765-1024x576-1.png 1024w, ./../../../wp-content/uploads/2021/12/Screenshot-765-1024x576-1-300x169.png 300w, ./../../../wp-content/uploads/2021/12/Screenshot-765-1024x576-1-768x432.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<ul class="has-medium-font-size"><li>Search for Simply Static, install and activate it.</li></ul>
+
+
+
+<figure class="wp-block-image size-full"><img loading="lazy" width="1024" height="576" src="./../../../wp-content/uploads/2021/12/Screenshot-766-1024x576-1.png" alt="" class="wp-image-649" srcset="./../../../wp-content/uploads/2021/12/Screenshot-766-1024x576-1.png 1024w, ./../../../wp-content/uploads/2021/12/Screenshot-766-1024x576-1-300x169.png 300w, ./../../../wp-content/uploads/2021/12/Screenshot-766-1024x576-1-768x432.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<ul class="has-medium-font-size"><li>Go to Simply Static setting at the bottom, Under general choose Save for offline use and click SAVE CHANGES.</li></ul>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="576" src="./../../../wp-content/uploads/2022/07/Screenshot-316-1024x576.png" alt="" class="wp-image-1104" srcset="./../../../wp-content/uploads/2022/07/Screenshot-316-1024x576.png 1024w, ./../../../wp-content/uploads/2022/07/Screenshot-316-300x169.png 300w, ./../../../wp-content/uploads/2022/07/Screenshot-316-768x432.png 768w, ./../../../wp-content/uploads/2022/07/Screenshot-316.png 1366w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<ul class="has-medium-font-size"><li>Finally go to Simply Static click Generate Static Files, wait for a while, click on Click here to download when finish.</li></ul>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="576" src="./../../../wp-content/uploads/2022/07/Screenshot-317-1024x576.png" alt="" class="wp-image-1105" srcset="./../../../wp-content/uploads/2022/07/Screenshot-317-1024x576.png 1024w, ./../../../wp-content/uploads/2022/07/Screenshot-317-300x169.png 300w, ./../../../wp-content/uploads/2022/07/Screenshot-317-768x432.png 768w, ./../../../wp-content/uploads/2022/07/Screenshot-317.png 1366w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p class="has-text-align-center has-nv-site-bg-color has-neve-link-color-background-color has-text-color has-background" style="font-size:15px">Notice: Internet connection is required for download.</p>
+
+
+
+<p class="has-medium-font-size"><strong>Step3</strong>: Hosting, you need GitHub account and you can create it for free and <a rel="noreferrer noopener" href="https://www.youtube.com/watch?v=tTvLl138ky4" target="_blank">here is how you do it</a>.</p>
+
+
+
+<p class="has-text-align-center has-nv-site-bg-color has-neve-link-color-background-color has-text-color has-background" style="font-size:15px">Notice: I will create repository from computer and update it to GitHub page in order to simplify the process, but there is an other way you can learn more here.</p>
+<p><a class="a2a_button_facebook" href="https://www.addtoany.com/add_to/facebook?linkurl=.%2F2022%2F07%2F04%2Fwordpress6-0-on-github%2F&amp;linkname=WordPress6.0%20on%20GitHub" title="Facebook" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_twitter" href="https://www.addtoany.com/add_to/twitter?linkurl=.%2F2022%2F07%2F04%2Fwordpress6-0-on-github%2F&amp;linkname=WordPress6.0%20on%20GitHub" title="Twitter" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_email" href="https://www.addtoany.com/add_to/email?linkurl=.%2F2022%2F07%2F04%2Fwordpress6-0-on-github%2F&amp;linkname=WordPress6.0%20on%20GitHub" title="Email" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_whatsapp" href="https://www.addtoany.com/add_to/whatsapp?linkurl=.%2F2022%2F07%2F04%2Fwordpress6-0-on-github%2F&amp;linkname=WordPress6.0%20on%20GitHub" title="WhatsApp" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_telegram" href="https://www.addtoany.com/add_to/telegram?linkurl=.%2F2022%2F07%2F04%2Fwordpress6-0-on-github%2F&amp;linkname=WordPress6.0%20on%20GitHub" title="Telegram" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_line" href="https://www.addtoany.com/add_to/line?linkurl=.%2F2022%2F07%2F04%2Fwordpress6-0-on-github%2F&amp;linkname=WordPress6.0%20on%20GitHub" title="Line" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_reddit" href="https://www.addtoany.com/add_to/reddit?linkurl=.%2F2022%2F07%2F04%2Fwordpress6-0-on-github%2F&amp;linkname=WordPress6.0%20on%20GitHub" title="Reddit" rel="nofollow noopener" target="_blank"></a><a class="a2a_dd addtoany_share_save addtoany_share" href="https://www.addtoany.com/share#url=.%2F2022%2F07%2F04%2Fwordpress6-0-on-github%2F&#038;title=WordPress6.0%20on%20GitHub" data-a2a-url="./../../../2022/07/04/wordpress6-0-on-github/index.html" data-a2a-title="WordPress6.0 on GitHub"></a></p>]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>NFT</title>
+		<link>./../../../2022/02/03/nft/index.html</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Thu, 03 Feb 2022 01:42:20 +0000</pubDate>
+				<category><![CDATA[Technology]]></category>
+		<guid isPermaLink="false">./../../../index.html?p=1022</guid>
+
+					<description><![CDATA[After Crypto Currency, NFT is the had become the most expensive digital item of all time. Some NFT art are sold for millions of dollar, NFT is becoming the new trend on the internet. So what is NFT? NFT stand for Non-Fungible Token it&#8217;s a non-interchangeable data stored on a blockchain is a digital form that&#8230;&#160;<a href="./../../../2022/02/03/nft/index.html" class="" rel="bookmark">Read More &#187;<span class="screen-reader-text">NFT</span></a>]]></description>
+										<content:encoded><![CDATA[
+<p class="has-medium-font-size">After Crypto Currency, NFT is the had become the most expensive digital item of all time. Some NFT art are sold for millions of dollar, NFT is becoming the new trend on the internet.</p>
+
+
+
+<p style="font-size:50px">So what is NFT?</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="512" src="./../../../wp-content/uploads/2022/02/1_o1xfPs9Yr76cb0fFFT8cWw-1024x512.jpeg" alt="" class="wp-image-1029" srcset="./../../../wp-content/uploads/2022/02/1_o1xfPs9Yr76cb0fFFT8cWw-1024x512.jpeg 1024w, ./../../../wp-content/uploads/2022/02/1_o1xfPs9Yr76cb0fFFT8cWw-300x150.jpeg 300w, ./../../../wp-content/uploads/2022/02/1_o1xfPs9Yr76cb0fFFT8cWw-768x384.jpeg 768w, ./../../../wp-content/uploads/2022/02/1_o1xfPs9Yr76cb0fFFT8cWw.jpeg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p class="has-medium-font-size">NFT stand for <strong>Non-Fungible Token</strong> it&#8217;s a non-interchangeable data stored on a blockchain is a digital form that can be sold and trade, NFT can be anything from Photo, Video, or Audio. Buying a NFT art will mean you own the NFT ownership, it&#8217;s like buying an item in a game but now you buying a digital good in real life. NFT is work just like   Crypto Currency because it&#8217;s have been created based on and also Crypto Currency is needed to buy NFT. Most of NFT is sell in <a rel="noreferrer noopener" href="https://en.wikipedia.org/wiki/Ethereum" target="_blank">Ethereum</a>. NFT is all about owning something digitally, but that doesn&#8217;t mean you are the owner it just prove that you own it digitally. </p>
+
+
+
+<p style="font-size:50px">Why buy NFT?</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="683" src="./../../../wp-content/uploads/2022/02/sale-302677-article-image-1632314740372-1024x683.jpeg" alt="" class="wp-image-1031" srcset="./../../../wp-content/uploads/2022/02/sale-302677-article-image-1632314740372-1024x683.jpeg 1024w, ./../../../wp-content/uploads/2022/02/sale-302677-article-image-1632314740372-300x200.jpeg 300w, ./../../../wp-content/uploads/2022/02/sale-302677-article-image-1632314740372-768x512.jpeg 768w, ./../../../wp-content/uploads/2022/02/sale-302677-article-image-1632314740372-930x620.jpeg 930w, ./../../../wp-content/uploads/2022/02/sale-302677-article-image-1632314740372.jpeg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p class="has-medium-font-size">The reason to buy NFT is because it&#8217;s expensive mean it&#8217;s rare, and when something become rare it&#8217;s expensive. An other is because NFT is a digital item just like in game, but you own it in real life and can be used in real life (digitally not physically).</p>
+
+
+
+<p style="font-size:50px">Is it good?</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="683" src="./../../../wp-content/uploads/2022/02/1_yPoLPVqY2vRshqLuYQ8mFA-1024x683.jpeg" alt="" class="wp-image-1033" srcset="./../../../wp-content/uploads/2022/02/1_yPoLPVqY2vRshqLuYQ8mFA-1024x683.jpeg 1024w, ./../../../wp-content/uploads/2022/02/1_yPoLPVqY2vRshqLuYQ8mFA-300x200.jpeg 300w, ./../../../wp-content/uploads/2022/02/1_yPoLPVqY2vRshqLuYQ8mFA-768x512.jpeg 768w, ./../../../wp-content/uploads/2022/02/1_yPoLPVqY2vRshqLuYQ8mFA-930x620.jpeg 930w, ./../../../wp-content/uploads/2022/02/1_yPoLPVqY2vRshqLuYQ8mFA.jpeg 1254w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p class="has-medium-font-size">Since NFT is based on blockchain technology it is secure, but at the same time it is a big part of energy waste. the way of keeping it secure is to have a lot of computer continue running all the time to keep record of the data and to make sure the data is safe, and that mean a lot of electricity is need to keep those computer running.</p>
+
+
+
+<p>Learn more about <a href="https://en.wikipedia.org/wiki/Non-fungible_token#Description" target="_blank" rel="noreferrer noopener">NFT</a> here.</p>
+<p><a class="a2a_button_facebook" href="https://www.addtoany.com/add_to/facebook?linkurl=.%2F2022%2F02%2F03%2Fnft%2F&amp;linkname=NFT" title="Facebook" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_twitter" href="https://www.addtoany.com/add_to/twitter?linkurl=.%2F2022%2F02%2F03%2Fnft%2F&amp;linkname=NFT" title="Twitter" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_email" href="https://www.addtoany.com/add_to/email?linkurl=.%2F2022%2F02%2F03%2Fnft%2F&amp;linkname=NFT" title="Email" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_whatsapp" href="https://www.addtoany.com/add_to/whatsapp?linkurl=.%2F2022%2F02%2F03%2Fnft%2F&amp;linkname=NFT" title="WhatsApp" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_telegram" href="https://www.addtoany.com/add_to/telegram?linkurl=.%2F2022%2F02%2F03%2Fnft%2F&amp;linkname=NFT" title="Telegram" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_line" href="https://www.addtoany.com/add_to/line?linkurl=.%2F2022%2F02%2F03%2Fnft%2F&amp;linkname=NFT" title="Line" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_reddit" href="https://www.addtoany.com/add_to/reddit?linkurl=.%2F2022%2F02%2F03%2Fnft%2F&amp;linkname=NFT" title="Reddit" rel="nofollow noopener" target="_blank"></a><a class="a2a_dd addtoany_share_save addtoany_share" href="https://www.addtoany.com/share#url=.%2F2022%2F02%2F03%2Fnft%2F&#038;title=NFT" data-a2a-url="./../../../2022/02/03/nft/index.html" data-a2a-title="NFT"></a></p>]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Yukikaze</title>
+		<link>./../../../2022/01/19/movie-yukikaze/index.html</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Wed, 19 Jan 2022 14:03:28 +0000</pubDate>
+				<category><![CDATA[3D Model]]></category>
+		<category><![CDATA[Blender]]></category>
+		<guid isPermaLink="false">./../../../index.html?p=969</guid>
+
+					<description><![CDATA[Yukikaze is a Sifi movie about human fighting aliens called Jam. Learn more about this movie here Here is my project of recreating aircraft from SAS of this movie to test and improve my 3D modeling skill. FFR-31-MR Super sylph from episode FFX-99/FFR-41-MR Mave FEP-1 EWAC/ACC Learn more about this movie here]]></description>
+										<content:encoded><![CDATA[
+<p class="has-medium-font-size">Yukikaze is a Sifi movie about human fighting aliens called Jam. <a rel="noreferrer noopener" href="https://en.wikipedia.org/wiki/Yukikaze_(novel)" target="_blank">Learn more about this movie here</a></p>
+
+
+
+<p class="has-medium-font-size">Here is my project of recreating aircraft from SAS of this movie to test and improve my 3D modeling skill.</p>
+
+
+
+<ul class="has-medium-font-size"><li>FFR-31-MR Super sylph from episode</li></ul>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="576" src="./../../../wp-content/uploads/2022/01/1.1-1024x576.jpg" alt="" class="wp-image-971" srcset="./../../../wp-content/uploads/2022/01/1.1-1024x576.jpg 1024w, ./../../../wp-content/uploads/2022/01/1.1-300x169.jpg 300w, ./../../../wp-content/uploads/2022/01/1.1-768x432.jpg 768w, ./../../../wp-content/uploads/2022/01/1.1-1536x864.jpg 1536w, ./../../../wp-content/uploads/2022/01/1.1-2048x1152.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>FFR-31-MR Super sylph</figcaption></figure>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="576" src="./../../../wp-content/uploads/2022/01/2.353-1024x576.jpg" alt="" class="wp-image-973" srcset="./../../../wp-content/uploads/2022/01/2.353-1024x576.jpg 1024w, ./../../../wp-content/uploads/2022/01/2.353-300x169.jpg 300w, ./../../../wp-content/uploads/2022/01/2.353-768x432.jpg 768w, ./../../../wp-content/uploads/2022/01/2.353-1536x864.jpg 1536w, ./../../../wp-content/uploads/2022/01/2.353-2048x1152.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption> FFR-31-MR Super sylph</figcaption></figure>
+
+
+
+<ul class="has-medium-font-size"><li>FFX-99/FFR-41-MR Mave</li></ul>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="576" src="./../../../wp-content/uploads/2021/12/mave2-2-2048x1152-1-1024x576.jpg" alt="" class="wp-image-609" srcset="./../../../wp-content/uploads/2021/12/mave2-2-2048x1152-1-1024x576.jpg 1024w, ./../../../wp-content/uploads/2021/12/mave2-2-2048x1152-1-300x169.jpg 300w, ./../../../wp-content/uploads/2021/12/mave2-2-2048x1152-1-768x432.jpg 768w, ./../../../wp-content/uploads/2021/12/mave2-2-2048x1152-1-1536x864.jpg 1536w, ./../../../wp-content/uploads/2021/12/mave2-2-2048x1152-1.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>FFR-41-MR Mave</figcaption></figure>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="576" src="./../../../wp-content/uploads/2021/12/rafe99-1-2048x1152-1-1024x576.jpg" alt="" class="wp-image-622" srcset="./../../../wp-content/uploads/2021/12/rafe99-1-2048x1152-1-1024x576.jpg 1024w, ./../../../wp-content/uploads/2021/12/rafe99-1-2048x1152-1-300x169.jpg 300w, ./../../../wp-content/uploads/2021/12/rafe99-1-2048x1152-1-768x432.jpg 768w, ./../../../wp-content/uploads/2021/12/rafe99-1-2048x1152-1-1536x864.jpg 1536w, ./../../../wp-content/uploads/2021/12/rafe99-1-2048x1152-1.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>FFX-99 Rafe</figcaption></figure>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="576" src="./../../../wp-content/uploads/2021/12/TSX01-2-2048x1152-1-1024x576.jpg" alt="" class="wp-image-726" srcset="./../../../wp-content/uploads/2021/12/TSX01-2-2048x1152-1-1024x576.jpg 1024w, ./../../../wp-content/uploads/2021/12/TSX01-2-2048x1152-1-300x169.jpg 300w, ./../../../wp-content/uploads/2021/12/TSX01-2-2048x1152-1-768x432.jpg 768w, ./../../../wp-content/uploads/2021/12/TSX01-2-2048x1152-1-1536x864.jpg 1536w, ./../../../wp-content/uploads/2021/12/TSX01-2-2048x1152-1.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>TSX-01</figcaption></figure>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="576" src="./../../../wp-content/uploads/2021/12/FK2-2048x1152-1-1024x576.jpg" alt="" class="wp-image-558" srcset="./../../../wp-content/uploads/2021/12/FK2-2048x1152-1-1024x576.jpg 1024w, ./../../../wp-content/uploads/2021/12/FK2-2048x1152-1-300x169.jpg 300w, ./../../../wp-content/uploads/2021/12/FK2-2048x1152-1-768x432.jpg 768w, ./../../../wp-content/uploads/2021/12/FK2-2048x1152-1-1536x864.jpg 1536w, ./../../../wp-content/uploads/2021/12/FK2-2048x1152-1.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>Flip Knight System</figcaption></figure>
+
+
+
+<ul class="has-medium-font-size"><li>FEP-1 EWAC/ACC</li></ul>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="576" src="./../../../wp-content/uploads/2021/12/FEP-1-EWAC-2-1-2048x1152-1-1024x576.jpg" alt="" class="wp-image-552" srcset="./../../../wp-content/uploads/2021/12/FEP-1-EWAC-2-1-2048x1152-1-1024x576.jpg 1024w, ./../../../wp-content/uploads/2021/12/FEP-1-EWAC-2-1-2048x1152-1-300x169.jpg 300w, ./../../../wp-content/uploads/2021/12/FEP-1-EWAC-2-1-2048x1152-1-768x432.jpg 768w, ./../../../wp-content/uploads/2021/12/FEP-1-EWAC-2-1-2048x1152-1-1536x864.jpg 1536w, ./../../../wp-content/uploads/2021/12/FEP-1-EWAC-2-1-2048x1152-1.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>FEP-1 EWAC</figcaption></figure>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="576" src="./../../../wp-content/uploads/2021/12/FEP-1-ACC-2-2048x1152-1-1024x576.jpg" alt="" class="wp-image-546" srcset="./../../../wp-content/uploads/2021/12/FEP-1-ACC-2-2048x1152-1-1024x576.jpg 1024w, ./../../../wp-content/uploads/2021/12/FEP-1-ACC-2-2048x1152-1-300x169.jpg 300w, ./../../../wp-content/uploads/2021/12/FEP-1-ACC-2-2048x1152-1-768x432.jpg 768w, ./../../../wp-content/uploads/2021/12/FEP-1-ACC-2-2048x1152-1-1536x864.jpg 1536w, ./../../../wp-content/uploads/2021/12/FEP-1-ACC-2-2048x1152-1.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>FEP-1 ACC</figcaption></figure>
+
+
+
+<p class="has-medium-font-size"> <a href="https://en.wikipedia.org/wiki/Yukikaze_(novel)" target="_blank" rel="noreferrer noopener">Learn more about this movie here</a></p>
+<p><a class="a2a_button_facebook" href="https://www.addtoany.com/add_to/facebook?linkurl=.%2F2022%2F01%2F19%2Fmovie-yukikaze%2F&amp;linkname=Yukikaze" title="Facebook" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_twitter" href="https://www.addtoany.com/add_to/twitter?linkurl=.%2F2022%2F01%2F19%2Fmovie-yukikaze%2F&amp;linkname=Yukikaze" title="Twitter" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_email" href="https://www.addtoany.com/add_to/email?linkurl=.%2F2022%2F01%2F19%2Fmovie-yukikaze%2F&amp;linkname=Yukikaze" title="Email" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_whatsapp" href="https://www.addtoany.com/add_to/whatsapp?linkurl=.%2F2022%2F01%2F19%2Fmovie-yukikaze%2F&amp;linkname=Yukikaze" title="WhatsApp" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_telegram" href="https://www.addtoany.com/add_to/telegram?linkurl=.%2F2022%2F01%2F19%2Fmovie-yukikaze%2F&amp;linkname=Yukikaze" title="Telegram" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_line" href="https://www.addtoany.com/add_to/line?linkurl=.%2F2022%2F01%2F19%2Fmovie-yukikaze%2F&amp;linkname=Yukikaze" title="Line" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_reddit" href="https://www.addtoany.com/add_to/reddit?linkurl=.%2F2022%2F01%2F19%2Fmovie-yukikaze%2F&amp;linkname=Yukikaze" title="Reddit" rel="nofollow noopener" target="_blank"></a><a class="a2a_dd addtoany_share_save addtoany_share" href="https://www.addtoany.com/share#url=.%2F2022%2F01%2F19%2Fmovie-yukikaze%2F&#038;title=Yukikaze" data-a2a-url="./../../../2022/01/19/movie-yukikaze/index.html" data-a2a-title="Yukikaze"></a></p>]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>WordPress5.8 on GitHub</title>
+		<link>./../../../2021/12/28/wordpress-on-github/index.html</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Tue, 28 Dec 2021 20:18:03 +0000</pubDate>
+				<category><![CDATA[Website]]></category>
+		<category><![CDATA[WordPress]]></category>
+		<guid isPermaLink="false">http://127.0.0.1:81/wordpress/?p=235</guid>
+
+					<description><![CDATA[Currently this website is hosting on GitHub for free, because GitHub is an opensource platform. Learn more about Git hub here Notice: The website is a static website and not a dynamic website, this can be use for experimental and to test out WordPress without spending money. Not recommended for Business or online store. Below&#8230;&#160;<a href="./../../../2021/12/28/wordpress-on-github/index.html" class="" rel="bookmark">Read More &#187;<span class="screen-reader-text">WordPress5.8 on GitHub</span></a>]]></description>
+										<content:encoded><![CDATA[
+<p class="has-medium-font-size">Currently this website is hosting on <a href="https://github.com/" target="_blank" rel="noreferrer noopener">GitHub</a> for free, because GitHub is an opensource platform. <a rel="noreferrer noopener" href="https://github.com/about" target="_blank">Learn more about Git hub here</a></p>
+
+
+
+<p class="has-nv-site-bg-color has-neve-link-color-background-color has-text-color has-background" style="font-size:15px">Notice: The website is a <strong><em>static</em></strong> website and <strong><em>not </em></strong>a <strong><em>dynamic </em></strong>website, this can be use for experimental and to test out  WordPress without spending money. Not recommended for Business or online store.</p>
+
+
+
+<p class="has-text-align-center has-medium-font-size">Below is the <s>not so</s> easy way for creating your own website without coding=&gt;</p>
+
+
+
+<p class="has-medium-font-size"><strong><span style="text-decoration: underline;">Step1</span></strong>: Install<strong><em> WordPress 5.8</em></strong> on your local machine <strong><em>(offline)</em></strong>. <a href="https://bitnami.com/stack/wordpress/installer" target="_blank" rel="noreferrer noopener">Here is the link for the download</a>, and I recommend you to watch the <strong><em>tutorial</em></strong> first before doing the installation because it <strong><em>will help you</em></strong> understand the process, and <a href="https://www.youtube.com/watch?v=wWVbiGc6XKk" target="_blank" rel="noreferrer noopener">here is the link of tutorial</a>.</p>
+
+
+
+<p class="has-nv-site-bg-color has-neve-link-color-background-color has-text-color has-background" style="font-size:15px">Notice: Please save the <strong><em>Username and Password</em></strong>.</p>
+
+
+
+<p class="has-medium-font-size"><strong><span style="text-decoration: underline;">Step2</span></strong>: Install Simply Static on your WordPress site, this plugin allow you to generate and download static HTML file for your website<strong><em> don&#8217;t worry no coding involve here, you don&#8217;t need to learn HTML</em></strong>. Here is how you install it=> </p>
+
+
+
+<ul class="has-medium-font-size"><li>First go to WordPress</li></ul>
+
+
+
+<figure class="wp-block-image"><img loading="lazy" width="1024" height="576" src="./../../../wp-content/uploads/2021/12/Screenshot-760-1-1-1024x576.png" alt="" class="wp-image-630" srcset="./../../../wp-content/uploads/2021/12/Screenshot-760-1-1-1024x576.png 1024w, ./../../../wp-content/uploads/2021/12/Screenshot-760-1-1-300x169.png 300w, ./../../../wp-content/uploads/2021/12/Screenshot-760-1-1-768x432.png 768w, ./../../../wp-content/uploads/2021/12/Screenshot-760-1-1.png 1366w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<ul class="has-medium-font-size"><li>Next type <strong><em>login</em></strong> behind wordpress/</li></ul>
+
+
+
+<figure class="wp-block-image"><img loading="lazy" width="1024" height="79" src="./../../../wp-content/uploads/2021/12/Screenshot-763-1-1024x79-1.png" alt="" class="wp-image-637" srcset="./../../../wp-content/uploads/2021/12/Screenshot-763-1-1024x79-1.png 1024w, ./../../../wp-content/uploads/2021/12/Screenshot-763-1-1024x79-1-300x23.png 300w, ./../../../wp-content/uploads/2021/12/Screenshot-763-1-1024x79-1-768x59.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<ul class="has-medium-font-size"><li>Login with Username and Password</li></ul>
+
+
+
+<figure class="wp-block-image is-style-default"><img loading="lazy" width="1024" height="576" src="./../../../wp-content/uploads/2021/12/Screenshot-764-1024x576-1.png" alt="" class="wp-image-641" srcset="./../../../wp-content/uploads/2021/12/Screenshot-764-1024x576-1.png 1024w, ./../../../wp-content/uploads/2021/12/Screenshot-764-1024x576-1-300x169.png 300w, ./../../../wp-content/uploads/2021/12/Screenshot-764-1024x576-1-768x432.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<ul class="has-medium-font-size"><li>Hover over Plugin and click Add New</li></ul>
+
+
+
+<figure class="wp-block-image"><img loading="lazy" width="1024" height="576" src="./../../../wp-content/uploads/2021/12/Screenshot-765-1024x576-1.png" alt="" class="wp-image-645" srcset="./../../../wp-content/uploads/2021/12/Screenshot-765-1024x576-1.png 1024w, ./../../../wp-content/uploads/2021/12/Screenshot-765-1024x576-1-300x169.png 300w, ./../../../wp-content/uploads/2021/12/Screenshot-765-1024x576-1-768x432.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<ul class="has-medium-font-size"><li>Search for Simply Static, install and activate it</li></ul>
+
+
+
+<figure class="wp-block-image"><img loading="lazy" width="1024" height="576" src="./../../../wp-content/uploads/2021/12/Screenshot-766-1024x576-1.png" alt="" class="wp-image-649" srcset="./../../../wp-content/uploads/2021/12/Screenshot-766-1024x576-1.png 1024w, ./../../../wp-content/uploads/2021/12/Screenshot-766-1024x576-1-300x169.png 300w, ./../../../wp-content/uploads/2021/12/Screenshot-766-1024x576-1-768x432.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<ul class="has-medium-font-size"><li>Hover over Simply Static Click Setting, Under general uncheck everything except these 2 and click on SAVE CHANGES</li></ul>
+
+
+
+<figure class="wp-block-image"><img loading="lazy" width="1024" height="576" src="./../../../wp-content/uploads/2021/12/Screenshot-769-1024x576-1.png" alt="" class="wp-image-657" srcset="./../../../wp-content/uploads/2021/12/Screenshot-769-1024x576-1.png 1024w, ./../../../wp-content/uploads/2021/12/Screenshot-769-1024x576-1-300x169.png 300w, ./../../../wp-content/uploads/2021/12/Screenshot-769-1024x576-1-768x432.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<ul class="has-medium-font-size"><li>Finally go to Simply Static click Generate Static Files, wait for loading, click on Click here to download</li></ul>
+
+
+
+<figure class="wp-block-image"><img loading="lazy" width="1024" height="576" src="./../../../wp-content/uploads/2021/12/Screenshot-767-1024x576-1.png" alt="" class="wp-image-653" srcset="./../../../wp-content/uploads/2021/12/Screenshot-767-1024x576-1.png 1024w, ./../../../wp-content/uploads/2021/12/Screenshot-767-1024x576-1-300x169.png 300w, ./../../../wp-content/uploads/2021/12/Screenshot-767-1024x576-1-768x432.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p class="has-nv-site-bg-color has-neve-link-color-background-color has-text-color has-background" style="font-size:15px">Notice: Internet connection is required for the download and don&#8217;t forget to extract the file</p>
+
+
+
+<p class="has-medium-font-size"><strong><span style="text-decoration: underline;">Step3</span></strong>: Hosting, you need GitHub account and you can create it for free and <a href="https://www.youtube.com/watch?v=tTvLl138ky4" target="_blank" rel="noreferrer noopener">here is how you do it</a>. After login to your account, create a <strong><em>Repository</em></strong>=&gt;</p>
+
+
+
+<ul class="has-medium-font-size"><li>Click on GitHub logo and click New</li></ul>
+
+
+
+<figure class="wp-block-image"><img loading="lazy" width="1024" height="576" src="./../../../wp-content/uploads/2021/12/Screenshot-770-1-1024x576.png" alt="" class="wp-image-658" srcset="./../../../wp-content/uploads/2021/12/Screenshot-770-1-1024x576.png 1024w, ./../../../wp-content/uploads/2021/12/Screenshot-770-1-300x169.png 300w, ./../../../wp-content/uploads/2021/12/Screenshot-770-1-768x432.png 768w, ./../../../wp-content/uploads/2021/12/Screenshot-770-1.png 1366w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<ul class="has-medium-font-size"><li>Fill the Information, check Public, check Add a README file, click Create repository</li></ul>
+
+
+
+<figure class="wp-block-image"><img loading="lazy" width="1024" height="576" src="./../../../wp-content/uploads/2021/12/Screenshot-772-1024x576-1.png" alt="" class="wp-image-665" srcset="./../../../wp-content/uploads/2021/12/Screenshot-772-1024x576-1.png 1024w, ./../../../wp-content/uploads/2021/12/Screenshot-772-1024x576-1-300x169.png 300w, ./../../../wp-content/uploads/2021/12/Screenshot-772-1024x576-1-768x432.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p class="has-nv-site-bg-color has-neve-link-color-background-color has-text-color has-background" style="font-size:15px">Notice: Public is important</p>
+
+
+
+<p class="has-medium-font-size"><strong><span style="text-decoration: underline;">Step4A</span></strong>: <strong><em>Install GitHub desktop</em></strong> and <strong><em>pair</em></strong> it with your <strong><em>GitHub account</em></strong>, <a href="https://www.youtube.com/watch?v=xuq73UJrbwg&amp;list=LL&amp;index=1" target="_blank" rel="noreferrer noopener">Here is how it work</a>. Next <strong><em><a href="https://www.youtube.com/watch?v=xuq73UJrbwg&amp;list=LL&amp;index=1" target="_blank" rel="noreferrer noopener">clone the repository</a></em></strong> to your local machine, where we can <strong><em>upload</em></strong> your <strong><em>Static HTML file</em></strong> and <strong><em>then push</em></strong> (upload) it to your GitHub account. Below is how you push (upload)=&gt; </p>
+
+
+
+<ul class="has-medium-font-size"><li>Open GitHib desktop and click on Show in Explorer</li></ul>
+
+
+
+<figure class="wp-block-image"><img loading="lazy" width="768" height="527" src="./../../../wp-content/uploads/2021/12/Screenshot-773-2-768x527-1.png" alt="" class="wp-image-668" srcset="./../../../wp-content/uploads/2021/12/Screenshot-773-2-768x527-1.png 768w, ./../../../wp-content/uploads/2021/12/Screenshot-773-2-768x527-1-300x206.png 300w" sizes="(max-width: 768px) 100vw, 768px" /></figure>
+
+
+
+<ul class="has-medium-font-size"><li>Copy all the Static file and paste it here</li></ul>
+
+
+
+<figure class="wp-block-image"><img loading="lazy" width="768" height="524" src="./../../../wp-content/uploads/2021/12/Screenshot-774-768x524-1.png" alt="" class="wp-image-671" srcset="./../../../wp-content/uploads/2021/12/Screenshot-774-768x524-1.png 768w, ./../../../wp-content/uploads/2021/12/Screenshot-774-768x524-1-300x205.png 300w" sizes="(max-width: 768px) 100vw, 768px" /></figure>
+
+
+
+<ul class="has-medium-font-size"><li>Fill in information before Commit to main</li></ul>
+
+
+
+<figure class="wp-block-image"><img loading="lazy" width="768" height="531" src="./../../../wp-content/uploads/2021/12/Screenshot-776-768x531-1.png" alt="" class="wp-image-674" srcset="./../../../wp-content/uploads/2021/12/Screenshot-776-768x531-1.png 768w, ./../../../wp-content/uploads/2021/12/Screenshot-776-768x531-1-300x207.png 300w" sizes="(max-width: 768px) 100vw, 768px" /></figure>
+
+
+
+<ul class="has-medium-font-size"><li>Click on Push origin and wait until complete and everything is done</li></ul>
+
+
+
+<figure class="wp-block-image"><img loading="lazy" width="768" height="528" src="./../../../wp-content/uploads/2021/12/Screenshot-779-1-768x528-1.png" alt="" class="wp-image-677" srcset="./../../../wp-content/uploads/2021/12/Screenshot-779-1-768x528-1.png 768w, ./../../../wp-content/uploads/2021/12/Screenshot-779-1-768x528-1-300x206.png 300w" sizes="(max-width: 768px) 100vw, 768px" /></figure>
+
+
+
+<p class="has-medium-font-size"><strong><span style="text-decoration: underline;">Step4B</span></strong>:  <strong><em>Install GitHub desktop</em></strong> and <strong><em>pair</em></strong> it with your <strong><em>GitHub account</em></strong>, <a href="https://www.youtube.com/watch?v=xuq73UJrbwg&amp;list=LL&amp;index=1" target="_blank" rel="noreferrer noopener">Here is how it work</a>. Next <strong><em>create local repository</em></strong>, where you can <strong><em>upload</em></strong> your <strong><em>Static file</em></strong> and <strong><em>then push</em></strong> (upload) it to your GitHub account.  Below is how you <strong><em>create local repository</em></strong>=&gt; </p>
+
+
+
+<p class="has-text-align-left has-white-color has-vivid-red-background-color has-text-color has-background" style="font-size:15px"> Notice: If you go with <strong><em>Step4B </em></strong>then you can <strong><em>skip Step3</em></strong>. </p>
+
+
+
+<ul class="has-medium-font-size"><li>Click on down arrow, hover over Add and click on Create new repository</li></ul>
+
+
+
+<figure class="wp-block-image"><img loading="lazy" width="768" height="532" src="./../../../wp-content/uploads/2021/12/Screenshot-780-768x532-1.png" alt="" class="wp-image-680" srcset="./../../../wp-content/uploads/2021/12/Screenshot-780-768x532-1.png 768w, ./../../../wp-content/uploads/2021/12/Screenshot-780-768x532-1-300x208.png 300w" sizes="(max-width: 768px) 100vw, 768px" /></figure>
+
+
+
+<ul class="has-medium-font-size"><li>Fill in information check README and click Create repository</li></ul>
+
+
+
+<figure class="wp-block-image"><img loading="lazy" width="768" height="529" src="./../../../wp-content/uploads/2021/12/Screenshot-781-768x529-1.png" alt="" class="wp-image-683" srcset="./../../../wp-content/uploads/2021/12/Screenshot-781-768x529-1.png 768w, ./../../../wp-content/uploads/2021/12/Screenshot-781-768x529-1-300x207.png 300w" sizes="(max-width: 768px) 100vw, 768px" /></figure>
+
+
+
+<ul class="has-medium-font-size"><li>Click on Publish repository and wait until complete</li></ul>
+
+
+
+<figure class="wp-block-image"><img loading="lazy" width="768" height="527" src="./../../../wp-content/uploads/2021/12/Screenshot-783-768x527-1.png" alt="" class="wp-image-686" srcset="./../../../wp-content/uploads/2021/12/Screenshot-783-768x527-1.png 768w, ./../../../wp-content/uploads/2021/12/Screenshot-783-768x527-1-300x206.png 300w" sizes="(max-width: 768px) 100vw, 768px" /></figure>
+
+
+
+<p class="has-text-align-center has-medium-font-size">Here how is you push (upload)=&gt;</p>
+
+
+
+<ul class="has-medium-font-size"><li>Open GitHib desktop and click on Show in Explorer</li></ul>
+
+
+
+<figure class="wp-block-image"><img loading="lazy" width="768" height="527" src="./../../../wp-content/uploads/2021/12/Screenshot-773-2-768x527-1.png" alt="" class="wp-image-668" srcset="./../../../wp-content/uploads/2021/12/Screenshot-773-2-768x527-1.png 768w, ./../../../wp-content/uploads/2021/12/Screenshot-773-2-768x527-1-300x206.png 300w" sizes="(max-width: 768px) 100vw, 768px" /></figure>
+
+
+
+<ul class="has-medium-font-size"><li>Copy all the Static file and paste it here</li></ul>
+
+
+
+<figure class="wp-block-image"><img loading="lazy" width="768" height="524" src="./../../../wp-content/uploads/2021/12/Screenshot-774-768x524-1.png" alt="" class="wp-image-671" srcset="./../../../wp-content/uploads/2021/12/Screenshot-774-768x524-1.png 768w, ./../../../wp-content/uploads/2021/12/Screenshot-774-768x524-1-300x205.png 300w" sizes="(max-width: 768px) 100vw, 768px" /></figure>
+
+
+
+<ul class="has-medium-font-size"><li>Fill in information before Commit to main</li></ul>
+
+
+
+<figure class="wp-block-image"><img loading="lazy" width="768" height="531" src="./../../../wp-content/uploads/2021/12/Screenshot-776-768x531-1.png" alt="" class="wp-image-674" srcset="./../../../wp-content/uploads/2021/12/Screenshot-776-768x531-1.png 768w, ./../../../wp-content/uploads/2021/12/Screenshot-776-768x531-1-300x207.png 300w" sizes="(max-width: 768px) 100vw, 768px" /></figure>
+
+
+
+<ul class="has-medium-font-size"><li>Click on Push origin and wait until complete and everything is done</li></ul>
+
+
+
+<figure class="wp-block-image"><img loading="lazy" width="768" height="528" src="./../../../wp-content/uploads/2021/12/Screenshot-779-1-768x528-1.png" alt="" class="wp-image-677" srcset="./../../../wp-content/uploads/2021/12/Screenshot-779-1-768x528-1.png 768w, ./../../../wp-content/uploads/2021/12/Screenshot-779-1-768x528-1-300x206.png 300w" sizes="(max-width: 768px) 100vw, 768px" /></figure>
+
+
+
+<p class="has-medium-font-size"><strong><span style="text-decoration: underline;">Step5/Final step</span></strong>: after push (upload) static file is complete, go the <strong><em>GitHub</em></strong> <strong><em>repository</em></strong> to change some setting required for hosting a web site=&gt;</p>
+
+
+
+<ul class="has-medium-font-size"><li>Go to repository and click on setting</li></ul>
+
+
+
+<figure class="wp-block-image"><img loading="lazy" width="1024" height="576" src="./../../../wp-content/uploads/2021/12/Screenshot-788-1024x576-1.png" alt="" class="wp-image-690" srcset="./../../../wp-content/uploads/2021/12/Screenshot-788-1024x576-1.png 1024w, ./../../../wp-content/uploads/2021/12/Screenshot-788-1024x576-1-300x169.png 300w, ./../../../wp-content/uploads/2021/12/Screenshot-788-1024x576-1-768x432.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<ul class="has-medium-font-size"><li>go down to GitHib Pages and click on Click it out here</li></ul>
+
+
+
+<figure class="wp-block-image"><img loading="lazy" width="1024" height="576" src="./../../../wp-content/uploads/2021/12/Screenshot-789-1024x576-1.png" alt="" class="wp-image-694" srcset="./../../../wp-content/uploads/2021/12/Screenshot-789-1024x576-1.png 1024w, ./../../../wp-content/uploads/2021/12/Screenshot-789-1024x576-1-300x169.png 300w, ./../../../wp-content/uploads/2021/12/Screenshot-789-1024x576-1-768x432.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<ul class="has-medium-font-size"><li>Click on None and choose main</li></ul>
+
+
+
+<figure class="wp-block-image"><img loading="lazy" width="1024" height="576" src="./../../../wp-content/uploads/2021/12/Screenshot-791-1024x576-1.png" alt="" class="wp-image-702" srcset="./../../../wp-content/uploads/2021/12/Screenshot-791-1024x576-1.png 1024w, ./../../../wp-content/uploads/2021/12/Screenshot-791-1024x576-1-300x169.png 300w, ./../../../wp-content/uploads/2021/12/Screenshot-791-1024x576-1-768x432.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<ul class="has-medium-font-size"><li>Click on Save and wait</li></ul>
+
+
+
+<figure class="wp-block-image"><img loading="lazy" width="1024" height="576" src="./../../../wp-content/uploads/2021/12/Screenshot-792-1024x576-1.png" alt="" class="wp-image-706" srcset="./../../../wp-content/uploads/2021/12/Screenshot-792-1024x576-1.png 1024w, ./../../../wp-content/uploads/2021/12/Screenshot-792-1024x576-1-300x169.png 300w, ./../../../wp-content/uploads/2021/12/Screenshot-792-1024x576-1-768x432.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<ul class="has-medium-font-size"><li>When the link turn green it&#8217;s ready</li></ul>
+
+
+
+<figure class="wp-block-image"><img loading="lazy" width="1024" height="576" src="./../../../wp-content/uploads/2021/12/Screenshot-794-1024x576-1.png" alt="" class="wp-image-710" srcset="./../../../wp-content/uploads/2021/12/Screenshot-794-1024x576-1.png 1024w, ./../../../wp-content/uploads/2021/12/Screenshot-794-1024x576-1-300x169.png 300w, ./../../../wp-content/uploads/2021/12/Screenshot-794-1024x576-1-768x432.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p class="has-white-color has-vivid-red-background-color has-text-color has-background" style="font-size:15px">Notice: When the link is <strong><em>green </em></strong>click on it to see if it work, <strong><em>you don&#8217;t need custom domain</em></strong> (you can buy one if you need it).</p>
+
+
+
+<p class="has-medium-font-size"> <a rel="noreferrer noopener" href="https://github.com/about" target="_blank">Learn more about Git hub here</a> </p>
+<p><a class="a2a_button_facebook" href="https://www.addtoany.com/add_to/facebook?linkurl=.%2F2021%2F12%2F28%2Fwordpress-on-github%2F&amp;linkname=WordPress5.8%20on%20GitHub" title="Facebook" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_twitter" href="https://www.addtoany.com/add_to/twitter?linkurl=.%2F2021%2F12%2F28%2Fwordpress-on-github%2F&amp;linkname=WordPress5.8%20on%20GitHub" title="Twitter" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_email" href="https://www.addtoany.com/add_to/email?linkurl=.%2F2021%2F12%2F28%2Fwordpress-on-github%2F&amp;linkname=WordPress5.8%20on%20GitHub" title="Email" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_whatsapp" href="https://www.addtoany.com/add_to/whatsapp?linkurl=.%2F2021%2F12%2F28%2Fwordpress-on-github%2F&amp;linkname=WordPress5.8%20on%20GitHub" title="WhatsApp" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_telegram" href="https://www.addtoany.com/add_to/telegram?linkurl=.%2F2021%2F12%2F28%2Fwordpress-on-github%2F&amp;linkname=WordPress5.8%20on%20GitHub" title="Telegram" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_line" href="https://www.addtoany.com/add_to/line?linkurl=.%2F2021%2F12%2F28%2Fwordpress-on-github%2F&amp;linkname=WordPress5.8%20on%20GitHub" title="Line" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_reddit" href="https://www.addtoany.com/add_to/reddit?linkurl=.%2F2021%2F12%2F28%2Fwordpress-on-github%2F&amp;linkname=WordPress5.8%20on%20GitHub" title="Reddit" rel="nofollow noopener" target="_blank"></a><a class="a2a_dd addtoany_share_save addtoany_share" href="https://www.addtoany.com/share#url=.%2F2021%2F12%2F28%2Fwordpress-on-github%2F&#038;title=WordPress5.8%20on%20GitHub" data-a2a-url="./../../../2021/12/28/wordpress-on-github/index.html" data-a2a-title="WordPress5.8 on GitHub"></a></p>]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Gimp</title>
+		<link>./../../../2021/12/28/photoshop-and-gimp/index.html</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Tue, 28 Dec 2021 07:25:49 +0000</pubDate>
+				<category><![CDATA[PC]]></category>
+		<guid isPermaLink="false">http://127.0.0.1:81/wordpress/?p=88</guid>
+
+					<description><![CDATA[Gimp are image editor program with similar capability to Photoshop. The different between them is that Photoshop is premium and Gimp is Free, and also Photoshop is more reliable the Gimp. The interface of the Photoshop are clean looking while Gimp interface is more customizable and less refine. the functionality are mostly similar but how&#8230;&#160;<a href="./../../../2021/12/28/photoshop-and-gimp/index.html" class="" rel="bookmark">Read More &#187;<span class="screen-reader-text">Gimp</span></a>]]></description>
+										<content:encoded><![CDATA[
+<p class="has-medium-font-size">Gimp are image editor program with similar capability to Photoshop. The different between them is that Photoshop is premium and Gimp is Free, and also Photoshop is more reliable the Gimp. The interface of the Photoshop are clean looking while Gimp interface is more customizable and less refine. the functionality are mostly similar but how they work is a complete different story. <a href="https://www.gimp.org/" target="_blank" rel="noreferrer noopener">Learn more about gimp here</a></p>
+<p><a class="a2a_button_facebook" href="https://www.addtoany.com/add_to/facebook?linkurl=.%2F2021%2F12%2F28%2Fphotoshop-and-gimp%2F&amp;linkname=Gimp" title="Facebook" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_twitter" href="https://www.addtoany.com/add_to/twitter?linkurl=.%2F2021%2F12%2F28%2Fphotoshop-and-gimp%2F&amp;linkname=Gimp" title="Twitter" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_email" href="https://www.addtoany.com/add_to/email?linkurl=.%2F2021%2F12%2F28%2Fphotoshop-and-gimp%2F&amp;linkname=Gimp" title="Email" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_whatsapp" href="https://www.addtoany.com/add_to/whatsapp?linkurl=.%2F2021%2F12%2F28%2Fphotoshop-and-gimp%2F&amp;linkname=Gimp" title="WhatsApp" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_telegram" href="https://www.addtoany.com/add_to/telegram?linkurl=.%2F2021%2F12%2F28%2Fphotoshop-and-gimp%2F&amp;linkname=Gimp" title="Telegram" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_line" href="https://www.addtoany.com/add_to/line?linkurl=.%2F2021%2F12%2F28%2Fphotoshop-and-gimp%2F&amp;linkname=Gimp" title="Line" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_reddit" href="https://www.addtoany.com/add_to/reddit?linkurl=.%2F2021%2F12%2F28%2Fphotoshop-and-gimp%2F&amp;linkname=Gimp" title="Reddit" rel="nofollow noopener" target="_blank"></a><a class="a2a_dd addtoany_share_save addtoany_share" href="https://www.addtoany.com/share#url=.%2F2021%2F12%2F28%2Fphotoshop-and-gimp%2F&#038;title=Gimp" data-a2a-url="./../../../2021/12/28/photoshop-and-gimp/index.html" data-a2a-title="Gimp"></a></p>]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>MIG 25</title>
+		<link>./../../../2021/12/28/new-model/index.html</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Tue, 28 Dec 2021 14:04:50 +0000</pubDate>
+				<category><![CDATA[3D Model]]></category>
+		<category><![CDATA[Blender]]></category>
+		<guid isPermaLink="false">http://127.0.0.1:81/wordpress/?p=203</guid>
+
+					<description><![CDATA[The project is finished and below is the rendered image of the MIG-25 Foxbat. Learn more about MIG-25 here Learn more about MIG-25 here]]></description>
+										<content:encoded><![CDATA[
+<p class="has-medium-font-size">The project is finished and below is the rendered image of the MIG-25 Foxbat. <a rel="noreferrer noopener" href="https://en.wikipedia.org/wiki/Mikoyan-Gurevich_MiG-25" target="_blank">Learn more about MIG-25 here</a> </p>
+
+
+
+<figure class="wp-block-image"><img loading="lazy" width="1024" height="576" src="./../../../wp-content/uploads/2022/01/0.1-1024x576.png" alt="" class="wp-image-403" srcset="./../../../wp-content/uploads/2022/01/0.1-1024x576.png 1024w, ./../../../wp-content/uploads/2022/01/0.1-300x169.png 300w, ./../../../wp-content/uploads/2022/01/0.1-768x432.png 768w, ./../../../wp-content/uploads/2022/01/0.1-1536x864.png 1536w, ./../../../wp-content/uploads/2022/01/0.1-2048x1152.png 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>First render</figcaption></figure>
+
+
+
+<figure class="wp-block-image"><img loading="lazy" width="1024" height="576" src="./../../../wp-content/uploads/2021/12/0.2-1024x576.jpg" alt="" class="wp-image-406" srcset="./../../../wp-content/uploads/2021/12/0.2-1024x576.jpg 1024w, ./../../../wp-content/uploads/2021/12/0.2-300x169.jpg 300w, ./../../../wp-content/uploads/2021/12/0.2-768x432.jpg 768w, ./../../../wp-content/uploads/2021/12/0.2-1536x864.jpg 1536w, ./../../../wp-content/uploads/2021/12/0.2-2048x1152.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>Second render</figcaption></figure>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="576" src="./../../../wp-content/uploads/2021/12/0.2.2-1024x576.jpg" alt="" class="wp-image-407" srcset="./../../../wp-content/uploads/2021/12/0.2.2-1024x576.jpg 1024w, ./../../../wp-content/uploads/2021/12/0.2.2-300x169.jpg 300w, ./../../../wp-content/uploads/2021/12/0.2.2-scaled-e1642597362360-150x84.jpg 150w, ./../../../wp-content/uploads/2021/12/0.2.2-768x432.jpg 768w, ./../../../wp-content/uploads/2021/12/0.2.2-1536x864.jpg 1536w, ./../../../wp-content/uploads/2021/12/0.2.2-2048x1152.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>Final result</figcaption></figure>
+
+
+
+<p class="has-medium-font-size"><a href="https://en.wikipedia.org/wiki/Mikoyan-Gurevich_MiG-25" target="_blank" rel="noreferrer noopener">Learn more about MIG-25 here</a></p>
+<p><a class="a2a_button_facebook" href="https://www.addtoany.com/add_to/facebook?linkurl=.%2F2021%2F12%2F28%2Fnew-model%2F&amp;linkname=MIG%2025" title="Facebook" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_twitter" href="https://www.addtoany.com/add_to/twitter?linkurl=.%2F2021%2F12%2F28%2Fnew-model%2F&amp;linkname=MIG%2025" title="Twitter" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_email" href="https://www.addtoany.com/add_to/email?linkurl=.%2F2021%2F12%2F28%2Fnew-model%2F&amp;linkname=MIG%2025" title="Email" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_whatsapp" href="https://www.addtoany.com/add_to/whatsapp?linkurl=.%2F2021%2F12%2F28%2Fnew-model%2F&amp;linkname=MIG%2025" title="WhatsApp" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_telegram" href="https://www.addtoany.com/add_to/telegram?linkurl=.%2F2021%2F12%2F28%2Fnew-model%2F&amp;linkname=MIG%2025" title="Telegram" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_line" href="https://www.addtoany.com/add_to/line?linkurl=.%2F2021%2F12%2F28%2Fnew-model%2F&amp;linkname=MIG%2025" title="Line" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_reddit" href="https://www.addtoany.com/add_to/reddit?linkurl=.%2F2021%2F12%2F28%2Fnew-model%2F&amp;linkname=MIG%2025" title="Reddit" rel="nofollow noopener" target="_blank"></a><a class="a2a_dd addtoany_share_save addtoany_share" href="https://www.addtoany.com/share#url=.%2F2021%2F12%2F28%2Fnew-model%2F&#038;title=MIG%2025" data-a2a-url="./../../../2021/12/28/new-model/index.html" data-a2a-title="MIG 25"></a></p>]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>WordPress</title>
+		<link>./../../../2021/12/08/wordpress/index.html</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Wed, 08 Dec 2021 07:11:09 +0000</pubDate>
+				<category><![CDATA[Website]]></category>
+		<category><![CDATA[WordPress]]></category>
+		<guid isPermaLink="false">http://127.0.0.1:81/wordpress/?p=100</guid>
+
+					<description><![CDATA[WordPress is also a web site builder but the way it work is completely different form HTML and CSS. WordPress is just like MS office program but for creating web site and it is beginner friendly since you do have to learn HTML or CSS just to create a simple web page, you just drack&#8230;&#160;<a href="./../../../2021/12/08/wordpress/index.html" class="" rel="bookmark">Read More &#187;<span class="screen-reader-text">WordPress</span></a>]]></description>
+										<content:encoded><![CDATA[
+<p class="has-medium-font-size">WordPress is also a web site builder but the way it work is completely different form HTML and CSS. WordPress is just like MS office program but for creating web site and it is beginner friendly since you do have to learn HTML or CSS just to create a simple web page, you just drack and drop write some something down and done. But you still need to buy a domain and hosting before you can start with WordPress, there are also a way to install WP offline on local host machine that allow you to get start without domain and hosting but you need to find the way to get it online. <a href="https://wordpress.org/about/" target="_blank" rel="noreferrer noopener">Learn more about WordPress here</a></p>
+<p><a class="a2a_button_facebook" href="https://www.addtoany.com/add_to/facebook?linkurl=.%2F2021%2F12%2F08%2Fwordpress%2F&amp;linkname=WordPress" title="Facebook" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_twitter" href="https://www.addtoany.com/add_to/twitter?linkurl=.%2F2021%2F12%2F08%2Fwordpress%2F&amp;linkname=WordPress" title="Twitter" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_email" href="https://www.addtoany.com/add_to/email?linkurl=.%2F2021%2F12%2F08%2Fwordpress%2F&amp;linkname=WordPress" title="Email" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_whatsapp" href="https://www.addtoany.com/add_to/whatsapp?linkurl=.%2F2021%2F12%2F08%2Fwordpress%2F&amp;linkname=WordPress" title="WhatsApp" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_telegram" href="https://www.addtoany.com/add_to/telegram?linkurl=.%2F2021%2F12%2F08%2Fwordpress%2F&amp;linkname=WordPress" title="Telegram" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_line" href="https://www.addtoany.com/add_to/line?linkurl=.%2F2021%2F12%2F08%2Fwordpress%2F&amp;linkname=WordPress" title="Line" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_reddit" href="https://www.addtoany.com/add_to/reddit?linkurl=.%2F2021%2F12%2F08%2Fwordpress%2F&amp;linkname=WordPress" title="Reddit" rel="nofollow noopener" target="_blank"></a><a class="a2a_dd addtoany_share_save addtoany_share" href="https://www.addtoany.com/share#url=.%2F2021%2F12%2F08%2Fwordpress%2F&#038;title=WordPress" data-a2a-url="./../../../2021/12/08/wordpress/index.html" data-a2a-title="WordPress"></a></p>]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>HTML &#038; CSS</title>
+		<link>./../../../2021/12/07/html/index.html</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Tue, 07 Dec 2021 13:37:22 +0000</pubDate>
+				<category><![CDATA[Computer Language]]></category>
+		<category><![CDATA[PC]]></category>
+		<category><![CDATA[Website]]></category>
+		<guid isPermaLink="false">http://127.0.0.1:81/wordpress/?p=83</guid>
+
+					<description><![CDATA[HTML Html is a language for building web site, basically it is the back bone of the web site without it the web simply wont work. The way HTML work is just like a lose sandwich if you start with a bread you need to stop with a bread too. Html tag can be combine&#8230;&#160;<a href="./../../../2021/12/07/html/index.html" class="" rel="bookmark">Read More &#187;<span class="screen-reader-text">HTML &#038; CSS</span></a>]]></description>
+										<content:encoded><![CDATA[
+<h2>HTML</h2>
+
+
+
+<p class="has-medium-font-size">Html is a language for building web site, basically it is the back bone of the web site without it the web simply wont work. The way HTML work is just like a lose sandwich if you start with a bread you need to stop with a bread too. Html tag can be combine together to create something, and the way tag work to together is by working under each other. <a href="https://en.wikipedia.org/wiki/HTML" target="_blank" rel="noreferrer noopener">Learn more about HTML here</a>, Below is the list of HTML tags:</p>
+
+
+
+<figure class="wp-block-image size-full is-resized"><img loading="lazy" src="./../../../wp-content/uploads/2021/12/Screenshot-753-1-1.png" alt="" class="wp-image-628" width="817" height="896" srcset="./../../../wp-content/uploads/2021/12/Screenshot-753-1-1.png 659w, ./../../../wp-content/uploads/2021/12/Screenshot-753-1-1-273x300.png 273w" sizes="(max-width: 817px) 100vw, 817px" /></figure>
+
+
+
+<h2>CSS</h2>
+
+
+
+<p class="has-medium-font-size">CSS is similar to HTML they both are use in web site, however CSS is like the outside skin over the HTML. CSS are use as a style for the Web page while HTML provide the text and functionality, CSS provide the color, style, positioning, and the effect for the webpage. CSS work as you look on a element target a part of the HTML and then you use the code to change the target to be what ever you want. <a href="https://en.wikipedia.org/wiki/CSS" target="_blank" rel="noreferrer noopener">Learn more about CSS here</a></p>
+<p><a class="a2a_button_facebook" href="https://www.addtoany.com/add_to/facebook?linkurl=.%2F2021%2F12%2F07%2Fhtml%2F&amp;linkname=HTML%20%26%20CSS" title="Facebook" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_twitter" href="https://www.addtoany.com/add_to/twitter?linkurl=.%2F2021%2F12%2F07%2Fhtml%2F&amp;linkname=HTML%20%26%20CSS" title="Twitter" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_email" href="https://www.addtoany.com/add_to/email?linkurl=.%2F2021%2F12%2F07%2Fhtml%2F&amp;linkname=HTML%20%26%20CSS" title="Email" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_whatsapp" href="https://www.addtoany.com/add_to/whatsapp?linkurl=.%2F2021%2F12%2F07%2Fhtml%2F&amp;linkname=HTML%20%26%20CSS" title="WhatsApp" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_telegram" href="https://www.addtoany.com/add_to/telegram?linkurl=.%2F2021%2F12%2F07%2Fhtml%2F&amp;linkname=HTML%20%26%20CSS" title="Telegram" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_line" href="https://www.addtoany.com/add_to/line?linkurl=.%2F2021%2F12%2F07%2Fhtml%2F&amp;linkname=HTML%20%26%20CSS" title="Line" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_reddit" href="https://www.addtoany.com/add_to/reddit?linkurl=.%2F2021%2F12%2F07%2Fhtml%2F&amp;linkname=HTML%20%26%20CSS" title="Reddit" rel="nofollow noopener" target="_blank"></a><a class="a2a_dd addtoany_share_save addtoany_share" href="https://www.addtoany.com/share#url=.%2F2021%2F12%2F07%2Fhtml%2F&#038;title=HTML%20%26%20CSS" data-a2a-url="./../../../2021/12/07/html/index.html" data-a2a-title="HTML &amp; CSS"></a></p>]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Blender Animation</title>
+		<link>./../../../2021/12/07/79/index.html</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Tue, 07 Dec 2021 20:31:19 +0000</pubDate>
+				<category><![CDATA[Blender]]></category>
+		<guid isPermaLink="false">http://127.0.0.1:81/wordpress/?p=79</guid>
+
+					<description><![CDATA[I was getting start with animation to but my pc can only render low resolution video so I just stick with basic and very simple animation for now. Learn more about Blender here, Below is a test project of M829-APFSDS fire from L44-120mm.]]></description>
+										<content:encoded><![CDATA[
+<p class="has-medium-font-size">I was getting start with animation to but my pc can only render low resolution video so I just stick with basic and very simple animation for now. <a href="https://www.blender.org/features/" target="_blank" rel="noreferrer noopener">Learn more about Blender here</a>, Below is a test project of M829-APFSDS fire from L44-120mm.</p>
+
+
+
+<figure class="wp-block-video"><video controls src="./../../../wp-content/uploads/2021/12/UHD-610-2-1.mp4"></video></figure>
+<p><a class="a2a_button_facebook" href="https://www.addtoany.com/add_to/facebook?linkurl=.%2F2021%2F12%2F07%2F79%2F&amp;linkname=Blender%20Animation" title="Facebook" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_twitter" href="https://www.addtoany.com/add_to/twitter?linkurl=.%2F2021%2F12%2F07%2F79%2F&amp;linkname=Blender%20Animation" title="Twitter" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_email" href="https://www.addtoany.com/add_to/email?linkurl=.%2F2021%2F12%2F07%2F79%2F&amp;linkname=Blender%20Animation" title="Email" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_whatsapp" href="https://www.addtoany.com/add_to/whatsapp?linkurl=.%2F2021%2F12%2F07%2F79%2F&amp;linkname=Blender%20Animation" title="WhatsApp" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_telegram" href="https://www.addtoany.com/add_to/telegram?linkurl=.%2F2021%2F12%2F07%2F79%2F&amp;linkname=Blender%20Animation" title="Telegram" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_line" href="https://www.addtoany.com/add_to/line?linkurl=.%2F2021%2F12%2F07%2F79%2F&amp;linkname=Blender%20Animation" title="Line" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_reddit" href="https://www.addtoany.com/add_to/reddit?linkurl=.%2F2021%2F12%2F07%2F79%2F&amp;linkname=Blender%20Animation" title="Reddit" rel="nofollow noopener" target="_blank"></a><a class="a2a_dd addtoany_share_save addtoany_share" href="https://www.addtoany.com/share#url=.%2F2021%2F12%2F07%2F79%2F&#038;title=Blender%20Animation" data-a2a-url="./../../../2021/12/07/79/index.html" data-a2a-title="Blender Animation"></a></p>]]></content:encoded>
+					
+		
+		<enclosure url="./../../../wp-content/uploads/2021/12/UHD-610-2-1.mp4" length="595572" type="video/mp4" />
+
+			</item>
+		<item>
+		<title>Blender Sculpturing</title>
+		<link>./../../../2021/12/07/blender-sculpturing/index.html</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Tue, 07 Dec 2021 20:21:22 +0000</pubDate>
+				<category><![CDATA[Blender]]></category>
+		<guid isPermaLink="false">http://127.0.0.1:81/wordpress/?p=76</guid>
+
+					<description><![CDATA[For sculpturing is basically 3D drawing a spear in to organic or any life form that are generally smooth. and again this time I lack in gear so I can&#8217;t achieve a good result on sculpture yet. But I have working on a model using mouse, it is possible but I still need more practice.&#8230;&#160;<a href="./../../../2021/12/07/blender-sculpturing/index.html" class="" rel="bookmark">Read More &#187;<span class="screen-reader-text">Blender Sculpturing</span></a>]]></description>
+										<content:encoded><![CDATA[
+<p class="has-medium-font-size">For sculpturing is basically 3D drawing a spear in to organic or any life form that are generally smooth. and again this time I lack in gear so I can&#8217;t achieve a good result on sculpture yet. But I have working on a model using mouse, it is possible but I still need more practice. <a href="https://www.blender.org/features/" target="_blank" rel="noreferrer noopener">Learn more about Blender here</a></p>
+
+
+
+<figure class="wp-block-image"><img loading="lazy" width="1024" height="369" src="./../../../wp-content/uploads/2021/12/0-1-2-2048x737-1-1024x369.png" alt="" class="wp-image-461" srcset="./../../../wp-content/uploads/2021/12/0-1-2-2048x737-1-1024x369.png 1024w, ./../../../wp-content/uploads/2021/12/0-1-2-2048x737-1-300x108.png 300w, ./../../../wp-content/uploads/2021/12/0-1-2-2048x737-1-768x276.png 768w, ./../../../wp-content/uploads/2021/12/0-1-2-2048x737-1-1536x553.png 1536w, ./../../../wp-content/uploads/2021/12/0-1-2-2048x737-1.png 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>Process of sculpturing</figcaption></figure>
+
+
+
+<p></p>
+<p><a class="a2a_button_facebook" href="https://www.addtoany.com/add_to/facebook?linkurl=.%2F2021%2F12%2F07%2Fblender-sculpturing%2F&amp;linkname=Blender%20Sculpturing" title="Facebook" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_twitter" href="https://www.addtoany.com/add_to/twitter?linkurl=.%2F2021%2F12%2F07%2Fblender-sculpturing%2F&amp;linkname=Blender%20Sculpturing" title="Twitter" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_email" href="https://www.addtoany.com/add_to/email?linkurl=.%2F2021%2F12%2F07%2Fblender-sculpturing%2F&amp;linkname=Blender%20Sculpturing" title="Email" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_whatsapp" href="https://www.addtoany.com/add_to/whatsapp?linkurl=.%2F2021%2F12%2F07%2Fblender-sculpturing%2F&amp;linkname=Blender%20Sculpturing" title="WhatsApp" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_telegram" href="https://www.addtoany.com/add_to/telegram?linkurl=.%2F2021%2F12%2F07%2Fblender-sculpturing%2F&amp;linkname=Blender%20Sculpturing" title="Telegram" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_line" href="https://www.addtoany.com/add_to/line?linkurl=.%2F2021%2F12%2F07%2Fblender-sculpturing%2F&amp;linkname=Blender%20Sculpturing" title="Line" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_reddit" href="https://www.addtoany.com/add_to/reddit?linkurl=.%2F2021%2F12%2F07%2Fblender-sculpturing%2F&amp;linkname=Blender%20Sculpturing" title="Reddit" rel="nofollow noopener" target="_blank"></a><a class="a2a_dd addtoany_share_save addtoany_share" href="https://www.addtoany.com/share#url=.%2F2021%2F12%2F07%2Fblender-sculpturing%2F&#038;title=Blender%20Sculpturing" data-a2a-url="./../../../2021/12/07/blender-sculpturing/index.html" data-a2a-title="Blender Sculpturing"></a></p>]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
