@@ -1,0 +1,97 @@
+ body{
+    background-image: url('./3.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+    background-attachment: fixed;
+    background-position: center;
+ }
+ 
+ 
+ .top{
+     height: 0px;
+     margin: 0 auto;
+ }
+    .logo{
+        margin-top: 10px;
+        }
+    .drop-menu{
+         position: relative;
+         display: inline-block;
+         margin-top: -10px;
+         margin-left: 1000px ;
+        }
+            .drop-menu:hover .menu{
+                 background-color: green;
+                 color: white;
+              }
+            .dropdown-menu a{
+                 color: white;
+                }
+ .menu{
+     background-color: white;
+     color: black;
+     padding: 15px 60px;
+     border-radius: 50px 50px 50px 50px ;
+     font-size: 15px;
+     cursor: pointer;
+     border: 0px  ;
+ }
+ 
+
+  .dropdown-menu{
+     display: none;
+     position: absolute;
+     margin-left: -40px;
+     margin-top: -15px;
+     background-color: transparent;
+     min-width: 158px;
+     z-index: 1;
+ }
+ 
+ 
+ .drop-menu:hover .dropdown-menu{
+     display: block;
+ }
+ ul{
+     list-style-type: none;
+ }
+ a{
+     text-decoration: none;
+ }
+ .b1{
+    background-color: gray;
+    color: black;
+    padding: 15px 60px;
+    border-radius: 50px 50px 50px 50px ;
+    font-size: 15px;
+    cursor: pointer;
+    border: 0px  ;
+}
+.dropdown-menu .b1:hover{
+    color: white;
+    background-color: green;
+}
+button{
+    transition: all 0.3s ease 0s;
+}
+button a{
+    border: none ;
+}
+a:hover{
+    transition: 0.3s;
+}
+
+.cont{
+     background-color: rgba(255, 255, 255, 0.354);
+     font:10 20px cursive;
+     border-radius: 50px 50px 50px 50px ;
+     padding: 10px 100px;
+}
+p{
+    text-align: center;
+    font: 10 30px 'Times New Roman';
+}
+.newline{
+    margin-left: 50px;
+}
