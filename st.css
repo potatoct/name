@@ -6,20 +6,22 @@
     background-attachment: fixed;
     background-position: center;
  }
- 
- 
+
  .top{
+     width: 80%;
+     min-width: 480px;
      height: 0px;
      margin: 0 auto;
+     
  }
     .logo{
-        margin-top: 10px;
+         margin-top: 0px;
         }
-    .drop-menu{
-         position: relative;
-         display: inline-block;
-         margin-top: -10px;
-         margin-left: 1000px ;
+.drop-menu{
+     position: relative;
+     display: inline-block;
+     margin-top: 5%px;
+     margin-left: 80% ;
         }
             .drop-menu:hover .menu{
                  background-color: green;
@@ -82,11 +84,18 @@ a:hover{
     transition: 0.3s;
 }
 
-.cont{
+.content{
      background-color: rgba(255, 255, 255, 0.354);
      font:10 20px cursive;
      border-radius: 50px 50px 50px 50px ;
      padding: 10px 100px;
+}
+.content2{
+    background-color: rgba(0, 0, 0, 0.808);
+    color: rgb(47, 210, 18);
+    font:10 20px cursive;
+    border-radius: 50px 50px 50px 50px ;
+    padding: 10px 100px;
 }
 p{
     text-align: center;
